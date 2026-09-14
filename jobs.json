@@ -1,5 +1,56 @@
 [
   {
+    "url": "https://www.teamland.ro/apply.php?id=640#content",
+    "title": "Responsabil Administrare de Personal",
+    "company": "TEAMLAND SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:09:22.317Z",
+    "status": "scraped",
+    "tags": [
+      "Managementul resurselor umane",
+      "Dreptul afacerilor"
+    ],
+    "matchPercentage": 70,
+    "reason": "Administrarea de personal se suprapune cuManagementul resurselor umane si Dreptul afacerilor din planul de invatamant, dar necesita si cunostinte practice de legislatie a muncii pe care le avem partial."
+  },
+  {
+    "url": "https://www.teamland.ro/apply.php?id=365#content",
+    "title": "Specialist Resurse Umane - Administrare",
+    "company": "TEAMLAND SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-12T12:02:16.794Z",
+    "status": "scraped",
+    "tags": [
+      "Managementul resurselor umane",
+      "Dreptul afacerilor"
+    ],
+    "matchPercentage": 75,
+    "reason": "Rolul de specialist HR administrare este aliniat cu competentele de Managementul resurselor umane si Dreptul afaceri. Este un rol potrivit pentru un student la Business."
+  },
+  {
+    "url": "https://www.teamland.ro/apply.php?id=1297#content",
+    "title": "HR Payroll si Administrare de personal",
+    "company": "TEAMLAND SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-12T12:00:42.377Z",
+    "status": "scraped",
+    "tags": [
+      "Managementul resurselor umane",
+      "Fiscalitate"
+    ],
+    "matchPercentage": 65,
+    "reason": "Payroll-ul implica cunostinte de fiscalitate si administrare personal, partial acoperite de competentele noastre. Totusi, specializarea in payroll necesita cunostinte tehnice specifice de salarizare."
+  },
+  {
     "url": "https://www.lugera.ro/jobex/public/ro/job-details/specialist-administrare-contracte-si-facturare_7121.html",
     "title": "Specialist Administrare Contracte si Facturare",
     "company": "LUGERA OUTSOURCING S.R.L.",
@@ -10,62 +61,11 @@
     "date": "2026-09-10T12:45:23.040Z",
     "status": "scraped",
     "tags": [
-      "Contabilitate financiară",
-      "Dreptul afacerilor"
+      "Dreptul afacerilor",
+      "Management operațional"
     ],
-    "matchPercentage": 45,
-    "reason": "O partiala potrivire: competentele de contabilitate financiară si dreptul afacerilor sunt relevante pentru administrarea contractelor si facturarea, insa jobul necesita mai multe cunostinte operationale specifice decat cele din planul de invatamant."
-  },
-  {
-    "url": "https://www.teamland.ro/apply.php?id=1297#content",
-    "title": "HR Payroll si Administrare de personal",
-    "company": "TEAMLAND SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-09T12:50:03.322Z",
-    "status": "scraped",
-    "tags": [
-      "Managementul resurselor umane",
-      "Fiscalitate"
-    ],
-    "matchPercentage": 85,
-    "reason": "Potrivire foarte buna: Managementul resurselor umane si fiscalitatea sunt competente direct relevante pentru payroll si administrarea de personal. Locatia in Bucuresti poate fi un inconvenient."
-  },
-  {
-    "url": "https://www.teamland.ro/apply.php?id=640#content",
-    "title": "Responsabil Administrare de Personal",
-    "company": "TEAMLAND SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-08T12:39:33.745Z",
-    "status": "scraped",
-    "tags": [
-      "Managementul resurselor umane",
-      "Dreptul afacerilor"
-    ],
-    "matchPercentage": 85,
-    "reason": "Potrivire foarte buna: rolul de administrare de personal se bazeaza pe competentele de MRU si dreptul afacerilor din planul de invatamant."
-  },
-  {
-    "url": "https://www.teamland.ro/apply.php?id=365#content",
-    "title": "Specialist Resurse Umane - Administrare",
-    "company": "TEAMLAND SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-06T11:58:23.344Z",
-    "status": "scraped",
-    "tags": [
-      "Managementul resurselor umane",
-      "Management general"
-    ],
-    "matchPercentage": 85,
-    "reason": "Potrivire excelenta: acesta este rolul cel mai aliniat cu profilul - managementul resurselor umane, legislatia muncii si administrarea personalului sunt in nucleul competentelor studiate."
+    "matchPercentage": 55,
+    "reason": "Administrarea contractelor si facturarea implica cunostinte de dreptul afacerilor si operatiuni comerciale. Competentele noastre de Management operational si Dreptul afacerilor sunt relevante, dar jobul este foarte operational/pe facturare specifica industriei de petrol si gaze."
   },
   {
     "url": "https://multijobs.ro/job/ofiter-administrare-contracte-durata-determinata/5242",
@@ -79,129 +79,197 @@
     "status": "scraped",
     "tags": [
       "Dreptul afacerilor",
-      "Contabilitate financiară"
+      "Management operațional"
+    ],
+    "matchPercentage": 50,
+    "reason": "Administrarea contractelor are legatura cu Dreptul afacerilor si Managementul operational, dar lipsa descrierii detaliate si caracterul temporar reduc potrivirea."
+  },
+  {
+    "url": "https://jobs.vodafone.com/careers/job/563018697923373",
+    "title": "Consumer in Business Representative- Cluj-Napoca",
+    "company": "VODAFONE ROMANIA SA",
+    "location": [
+      "Cluj-Napoca, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:15:44.512Z",
+    "status": "scraped",
+    "tags": [
+      "Managementul relațiilor cu clienții",
+      "Marketing"
+    ],
+    "matchPercentage": 70,
+    "reason": "Rolul de reprezentant vanzari B2B/B2C este potrivit pentru studenti la Business. Necesita cunostinte de CRM, vanzari, relationare clienti si marketing digital. Locatia Cluj-Napoca este un plus."
+  },
+  {
+    "url": "https://jobs.vodafone.com/careers/job/563018697923372",
+    "title": "Consumer in Business Representative- Iasi",
+    "company": "VODAFONE ROMANIA SA",
+    "location": [
+      "Iași, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:15:44.512Z",
+    "status": "scraped",
+    "tags": [
+      "Managementul relațiilor cu clienții",
+      "Marketing"
+    ],
+    "matchPercentage": 65,
+    "reason": "Acelasi rol ca #13 dar in Iasi. Competentele sunt potrivite, dar relocarea in Iasi poate fi un inconvenient."
+  },
+  {
+    "url": "https://jobs.vodafone.com/careers/job/563018697923374",
+    "title": "Consumer in Business Representative- Timisoara",
+    "company": "VODAFONE ROMANIA SA",
+    "location": [
+      "Timișoara, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:15:44.512Z",
+    "status": "scraped",
+    "tags": [
+      "Managementul relațiilor cu clienții",
+      "Marketing"
+    ],
+    "matchPercentage": 65,
+    "reason": "Acelasi rol ca #13/14, relocare in Timisoara. Competentele de vanzari si CRM se potrivesc."
+  },
+  {
+    "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Specialist-Manager_R0121615-1",
+    "title": "Specialist Manager",
+    "company": "LSEG BUSINESS SERVICES RM S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:15:16.496Z",
+    "status": "scraped",
+    "tags": [
+      "Finanțe corporative",
+      "Piețe financiare"
+    ],
+    "matchPercentage": 55,
+    "reason": "Rol intr-o companie de piete financiare. Poate fi potrivit pentru cineva cu competente in finante corporative si analiza financiara, dar titlul de 'Specialist Manager' indica un nivel de experienta mai ridicat."
+  },
+  {
+    "url": "https://careers.ing.com/en/job/bucharest/it-business-analyst-pricing-tribe-ipa-data-product-ing-hubs-romania/3121/41775489536",
+    "title": "IT Business Analyst | Pricing Tribe | IPA Data Product @ING Hubs Romania",
+    "company": "ING TRUST SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:15:15.241Z",
+    "status": "scraped",
+    "tags": [
+      "Analiză economică și financiară",
+      "Informatică pentru afaceri"
+    ],
+    "matchPercentage": 50,
+    "reason": "Business Analyst-ul in banking necesita gandire analitica si cunostinte de business, partial acoperite de competentele noastre. Totusi, rolul necesita si cunostinte tehnice de IT/data care depasesc profilul nostru."
+  },
+  {
+    "url": "https://careers.ing.com/en/job/bucharest/business-analyst-foundation-online-banking-administration-ing-hubs-romania/3121/36247994240",
+    "title": "Business Analyst | Foundation Online Banking Administration@ING Hubs Romania",
+    "company": "ING TRUST SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:15:15.241Z",
+    "status": "scraped",
+    "tags": [
+      "Informatică pentru afaceri",
+      "Analiză economică și financiară"
+    ],
+    "matchPercentage": 55,
+    "reason": "Similar cu #21, rolul de BA in online banking. Competentele de analiza financiara si informatica pentru afaceri sunt relevante, dar banking-ul online necesita si cunostinte tehnice specifice. Locatia in Cluj-Napoca este un avantaj."
+  },
+  {
+    "url": "https://www.prohuman.ro/candidati/jobs/Business-Analyst",
+    "title": "Business Analyst",
+    "company": "PROHUMAN APT S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:15:13.165Z",
+    "status": "scraped",
+    "tags": [
+      "Analiză economică și financiară",
+      "Gândire critică"
+    ],
+    "matchPercentage": 45,
+    "reason": "Rolul de Business Analyst este relevant pentru studiile noastre, dar necesita de obicei experienta practica si cunostinte de instrumente analitice specifice."
+  },
+  {
+    "url": "https://www.teamland.ro/apply.php?id=1006#content",
+    "title": "Business manager",
+    "company": "TEAMLAND SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:15:12.608Z",
+    "status": "scraped",
+    "tags": [
+      "Management general",
+      "Leadership"
     ],
     "matchPercentage": 40,
-    "reason": "Partiala potrivire prin competentele de dreptul afacerilor si contabilitate, dar rolul este pe durata determinata si necesita experienta operationala specifica."
+    "reason": "Titlul sugereaza un rol de management general, dar fara descriere detaliata este greu de evaluat. Poate fi potrivit ca rol entry/mid-level in consultanta sau management."
   },
   {
-    "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Bucharest---Dacia-One/IT-Business-Analyst---Cards-ING-Hubs-Romania_REQ-10119014",
-    "title": "IT Business Analyst - Cards@ING Hubs Romania",
-    "company": "ING HUBS B.V. AMSTERDAM - SUCURSALA BUCUREȘTI",
+    "url": "https://jobs-cee.pwc.com/ce/en/job/748162WD",
+    "title": "SAP SuccessFactors Talent Management Consultant",
+    "company": "HANDRA PWC S.R.L.",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-10T12:50:33.079Z",
+    "date": "2026-09-13T13:15:16.496Z",
     "status": "scraped",
     "tags": [
-      "Analiză economică",
-      "Informatică pentru afaceri"
+      "Consultanță în afaceri",
+      "Managementul resurselor umane"
     ],
-    "matchPercentage": 70,
-    "reason": "Potrivire buna: analiza de business în domeniul bancar se aliniază cu competențele de analiză economică și financiară, informatică pentru afaceri si finanțe corporative. Necesită totuși și cunoștințe IT suplimentare."
+    "matchPercentage": 55,
+    "reason": "Consultanță în managementul talentelor SAP, parțial relevant pentru MRU și consultanță, dar necesită cunoștințe tehnice SAP specifice."
   },
   {
-    "url": "https://www.librabank.ro/Cariere/Business+Process+Analyst/1242",
-    "title": "Business Process Analyst - Divizia Centrul de Procesare",
-    "company": "LIBRA BANK S.A. BUCUREŞTI SUCURSALA PLOIEŞTI",
+    "url": "https://ppc.jobful.io/company/ppc-energy/jobs/coordonator-project-management",
+    "title": "Coordonator Project Management",
+    "company": "PPC ENERGIE S.A.",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-10T12:50:33.079Z",
+    "date": "2026-09-13T13:14:49.549Z",
+    "status": "scraped",
+    "tags": [
+      "Management general",
+      "Management operațional"
+    ],
+    "matchPercentage": 50,
+    "reason": "Coordonare proiecte în domeniul energetic, relevant pentru management general și operațional, dar necesită experiență și cunoștințe sectoriale."
+  },
+  {
+    "url": "https://jobs.vodafone.com/careers/job/563018697900384",
+    "title": "Order Management Specialist",
+    "company": "VODAFONE ROMANIA SA",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:14:09.481Z",
     "status": "scraped",
     "tags": [
       "Management operațional",
-      "Analiză economică"
+      "CRM"
     ],
-    "matchPercentage": 80,
-    "reason": "Potrivire foarte buna: analiza și optimizarea proceselor operationale in banking se potrivește cu managementul operațional, analiza economică și sistemele informatice din planul de invatamant."
-  },
-  {
-    "url": "https://career.luxoft.com/jobs/senior-business-analyst-capital-markets-26659",
-    "title": "Senior Business Analyst (Capital Markets)",
-    "company": "LUXOFT GLOBAL CONSULTING S.R.L.",
-    "location": [
-      "all, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-10T12:50:32.358Z",
-    "status": "scraped",
-    "tags": [
-      "Piețe financiare",
-      "Finanțe corporative"
-    ],
-    "matchPercentage": 65,
-    "reason": "Potrivire partiala buna: analiza cerințelor de business în piețe de capital se aliniază cu finanțele corporative și piețele financiare, dar titlul 'Senior' indică nivel de experiență peste cel de junior/absolvent."
-  },
-  {
-    "url": "https://career.luxoft.com/jobs/senior-business-analyst-capital-markets-26646",
-    "title": "Senior Business Analyst (Capital Markets)",
-    "company": "LUXOFT GLOBAL CONSULTING S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-10T12:50:32.358Z",
-    "status": "scraped",
-    "tags": [
-      "Piețe financiare",
-      "Finanțe corporative"
-    ],
-    "matchPercentage": 65,
-    "reason": "Aceeași analiză ca mai sus - potrivire partiala cu competențele de piețe financiare și analiză economică, dar nivelul Senior necesită experiență."
-  },
-  {
-    "url": "https://careers.db.com/professionals/search-roles/#/professional/job/74859",
-    "title": "Requirements Engineer – PDB business solutions (f/m/x)",
-    "company": "DEUTSCHE BAHN CARGO ROMANIA S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-10T12:50:31.181Z",
-    "status": "scraped",
-    "tags": [
-      "Gândire critică",
-      "Informatică pentru afaceri"
-    ],
-    "matchPercentage": 60,
-    "reason": "Potrivire partiala: analiza cerințelor de business se aliniază cu gândirea critică și informatica pentru afaceri, dar rolul are o componentă tehnică semnificativă."
-  },
-  {
-    "url": "https://tremend.com/career/front-office-business-and-integration-analyst-murex-specialist-energy-commodities-7/",
-    "title": "Front Office Business and Integration Analyst (Murex) – Specialist- Energy &amp; Commodities",
-    "company": "TREMEND SOFTWARE CONSULTING SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-10T12:50:10.941Z",
-    "status": "scraped",
-    "tags": [
-      "Piețe financiare",
-      "Analiză economică"
-    ],
-    "matchPercentage": 70,
-    "reason": "Potrivire buna: analiza de business în piețe de energie și commodities se potrivește cu competențele de piețe financiare, analiză economică și informatică pentru afaceri."
-  },
-  {
-    "url": "https://career.preh.com/en/job-openings/current-job-offers.html?yid=3761",
-    "title": "Global Logistics Specialist - Demand Management",
-    "company": "PREH ROMANIA SRL",
-    "location": [
-      "Ghimbav, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-10T12:50:33.079Z",
-    "status": "scraped",
-    "tags": [
-      "Management operațional",
-      "Analiză economică"
-    ],
-    "matchPercentage": 60,
-    "reason": "Potrivire partiala buna: managementul logisticii și planificarea cererii se aliniază cu managementul operațional, dar necesită experienta de minimum 3 ani și cunoștințe SAP avansate."
+    "matchPercentage": 45,
+    "reason": "Gestionarea comenzilor într-o multinațională, parțial relevant pentru operațional și CRM, accesibil ca și entry-level."
   },
   {
     "url": "https://molgroup.taleo.net/careersection/external/jobdetail.ftl?job=275516&amp;tz=GMT%2B02%3A00&amp;tzname=Europe%2FBucharest",
@@ -211,167 +279,14 @@
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-10T12:50:31.181Z",
+    "date": "2026-09-13T13:14:07.449Z",
     "status": "scraped",
     "tags": [
-      "Marketing și cercetare",
-      "Negocieri în afaceri"
-    ],
-    "matchPercentage": 70,
-    "reason": "Trainee în category management pentru retail petrolier. Potrivit pentru un student în business - analiză vânzări, managementul categoriilor de produse, negociere cu furnizori."
-  },
-  {
-    "url": "https://www.jobradar24.ro/anunt/consultant-process-management-fm-gmp2re",
-    "title": "Consultant Process Management (f/m)",
-    "company": "LIDL DISCOUNT SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-10T12:50:10.941Z",
-    "status": "scraped",
-    "tags": [
-      "Management operațional",
-      "Leadership"
-    ],
-    "matchPercentage": 55,
-    "reason": "Consultanță în managementul proceselor operaționale. Competențele de management operațional și leadership sunt relevante, dar rolul necesită mai multă experiență."
-  },
-  {
-    "url": "https://jobs.vodafone.com/careers/job/563018697317474",
-    "title": "Problem Management Coordinator_1 year_Bucharest and Iasi",
-    "company": "VODAFONE ROMANIA SA",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-10T12:50:09.795Z",
-    "status": "scraped",
-    "tags": [
-      "Gândire critică",
-      "Management operațional"
-    ],
-    "matchPercentage": 45,
-    "reason": "Coordonare problem management în telecom. Gândirea critică și managementul operațional sunt relevante, dar rolul e mai mult IT/tehnic."
-  },
-  {
-    "url": "https://www.leohr.ro/jobs/operator-contabilitate-primara/126/",
-    "title": "Operator Contabilitate Primara",
-    "company": "LEOHR S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-10T12:49:45.477Z",
-    "status": "scraped",
-    "tags": [
-      "Contabilitate financiară",
-      "Contabilitate și audit"
-    ],
-    "matchPercentage": 85,
-    "reason": "Nivel entry-level în contabilitate primară. Potrivit perfect pentru un student - înregistrări contabile, facturare, lucru cu documente primare."
-  },
-  {
-    "url": "https://www.leohr.ro/jobs/coordonator-departament-contabilitate/520/",
-    "title": "Coordonator Departament Contabilitate",
-    "company": "LEOHR S.R.L.",
-    "location": [
-      "Bucuresti,Sector 1, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-10T12:49:36.462Z",
-    "status": "scraped",
-    "tags": [
-      "Contabilitate financiară",
-      "Management general"
+      "Marketing",
+      "Cercetare de piață"
     ],
     "matchPercentage": 65,
-    "reason": "Coordonare departament contabilitate. Competențele de contabilitate și management sunt relevante, dar rolul necesită experiență de coordonare echipă."
-  },
-  {
-    "url": "https://www.careerscenter.ro/jobs/contabil-cu-experienta-in-cabinet-de-contabilitate/",
-    "title": "Contabil cu experienta in cabinet de contabilitate",
-    "company": "CAREERS CENTER S.R.L.",
-    "location": [
-      "Oradea, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-10T12:48:09.918Z",
-    "status": "scraped",
-    "tags": [
-      "Contabilitate financiară",
-      "Contabilitate și audit"
-    ],
-    "matchPercentage": 60,
-    "reason": "Rol de contabil în cabinet, necesită experiență anterioară și cunoștințe de softuri contabile (Ciel/Saga). Ca student am cunoștințele teoretice, dar nu experiența practică."
-  },
-  {
-    "url": "https://www.smartbill.ro/cariere/job/consultant_vanzari_soft_contabilitate",
-    "title": "Consultant Vanzari Soft Contabilitate",
-    "company": "SMARTBILL CONTAB A&amp;N SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-10T12:48:02.034Z",
-    "status": "scraped",
-    "tags": [
-      "Contabilitate financiară",
-      "Negocieri în afaceri"
-    ],
-    "matchPercentage": 70,
-    "reason": "Consultanță vânzări pentru soft de contabilitate. Combină cunoștințele de contabilitate cu cele de vânzări și comunicare - potrivit pentru profilul meu."
-  },
-  {
-    "url": "https://alliancewd.wd3.myworkdayjobs.com/ro-RO/renault-group-careers/job/Mioveni/XMLNAME--Internship--Contabilitate-Furnizori--F-M-_JOBREQ_50271968",
-    "title": "Internship Contabilitate Furnizori (F/M)",
-    "company": "RENAULT SRL",
-    "location": [
-      "Mioveni, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-10T12:47:01.553Z",
-    "status": "scraped",
-    "tags": [
-      "Contabilitate financiară",
-      "Limbi străine"
-    ],
-    "matchPercentage": 85,
-    "reason": "Internship în contabilitate furnizori la Grupul Renault. Program de 6 luni, 30h/săptămână, hibrid. Perfect pentru un student - înregistrări contabile, lucru cu furnizori la nivel internațional."
-  },
-  {
-    "url": "https://cariere.kaufland.rohttps://cariere.kaufland.ro/jobs/specialist-bilant-contabilitate-f-m-bucuresti-409895",
-    "title": "Specialist Bilanț Contabilitate (f/m)",
-    "company": "KAUFLAND ROMANIA SCS",
-    "location": [
-      "BUCURESTI, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-10T12:43:07.822Z",
-    "status": "scraped",
-    "tags": [
-      "Contabilitate financiară",
-      "Analiză economică"
-    ],
-    "matchPercentage": 65,
-    "reason": "Specialist în bilanț contabil la Kaufland. Competențele de contabilitate financiară și analiză financiară sunt relevante, dar rolul necesită experiență."
-  },
-  {
-    "url": "https://recrutaresiselectie.ro/job/economist-contabilitate-generala-productie/",
-    "title": "Economist – contabilitate generală – producție",
-    "company": "HUMAN CAPITAL SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-09T12:51:49.219Z",
-    "status": "scraped",
-    "tags": [
-      "Contabilitate financiară",
-      "Fiscalitate"
-    ],
-    "matchPercentage": 70,
-    "reason": "Economist contabilitate generală în producție. Potrivit pentru studii de business - contabilitate financiară, analiză economică, cunoștințe de fiscalitate."
+    "reason": "Trainee în category management, foarte relevant pentru marketing, vânzări și cercetare de piață, accesibil pentru studenți."
   },
   {
     "url": "https://www.leohr.ro/jobs/asistent-contabilitate-franceza-avansat/290/",
@@ -381,132 +296,217 @@
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-09T12:46:25.607Z",
+    "date": "2026-09-13T13:12:51.502Z",
     "status": "scraped",
     "tags": [
       "Contabilitate financiară",
       "Limbi străine"
     ],
-    "matchPercentage": 75,
-    "reason": "Asistent contabilitate cu cerință de franceză avansat. Competențele de contabilitate și limbi străine sunt direct relevante."
+    "matchPercentage": 60,
+    "reason": "Asistent contabilitate cu limba franceză, direct relevant pentru contabilitate, accesibil ca entry-level."
   },
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/258331/Pauza-de-Fructe/Contabil---Contabilitate-primara---SAGA",
-    "title": "Contabil - Contabilitate primara - SAGA",
-    "company": "PAUZA DE BUCURIE S.R.L.",
+    "url": "https://cariere.penny.ro/joburi/aplica/sediul-central#31",
+    "title": "Trainee Contabilitate",
+    "company": "PENNY BILL TRADE SRL",
+    "location": [
+      "Stefanestii de Jos, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:12:31.156Z",
+    "status": "scraped",
+    "tags": [
+      "Contabilitate financiară",
+      "Contabilitate managerială"
+    ],
+    "matchPercentage": 70,
+    "reason": "Trainee în contabilitate, perfect potrivit pentru studenții la Business cu competențe în contabilitate financiară."
+  },
+  {
+    "url": "https://www.smartbill.ro/cariere/job/consultant_vanzari_soft_contabilitate",
+    "title": "Consultant Vanzari Soft Contabilitate",
+    "company": "SMARTBILL CONTAB A&amp;N SRL",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-05T12:02:02.913Z",
+    "date": "2026-09-13T13:12:09.631Z",
+    "status": "scraped",
+    "tags": [
+      "Contabilitate financiară",
+      "E-business"
+    ],
+    "matchPercentage": 55,
+    "reason": "Consultanță vânzări soft contabilitate, combină cunoștințele de contabilitate cu vânzările și e-business."
+  },
+  {
+    "url": "https://www.leohr.ro/jobs/operator-contabilitate-primara/126/",
+    "title": "Operator Contabilitate Primara",
+    "company": "LEOHR S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:11:40.008Z",
+    "status": "scraped",
+    "tags": [
+      "Contabilitate financiară",
+      "Contabilitate managerială"
+    ],
+    "matchPercentage": 65,
+    "reason": "Operațiuni contabile primare, foarte potrivit pentru un student la Business, entry-level și accesibil."
+  },
+  {
+    "url": "https://cariere.penny.ro/joburi/aplica/sediul-central#29",
+    "title": "Trainee Contabilitate",
+    "company": "PENNY BILL TRADE SRL",
+    "location": [
+      "Stefanestii de Jos, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:10:13.012Z",
+    "status": "scraped",
+    "tags": [
+      "Contabilitate financiară",
+      "Analiză economică"
+    ],
+    "matchPercentage": 55,
+    "reason": "Economist contabilitate generală în producție, relevant pentru profilul de contabilitate dar poate necesita experiență."
+  },
+  {
+    "url": "https://cariere.penny.ro/joburi/aplica/sediul-central#35",
+    "title": "Trainee Contabilitate",
+    "company": "PENNY BILL TRADE SRL",
+    "location": [
+      "Stefanestii de Jos, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:09:43.271Z",
+    "status": "scraped",
+    "tags": [
+      "Contabilitate financiară",
+      "Audit financiar"
+    ],
+    "matchPercentage": 60,
+    "reason": "Specialist bilanț contabil în retail mare, relevant pentru competențele de contabilitate și audit financiar."
+  },
+  {
+    "url": "https://cariere.kaufland.rohttps://cariere.kaufland.ro/jobs/specialist-bilant-contabilitate-f-m-bucuresti-409895",
+    "title": "Specialist Bilanț Contabilitate (f/m)",
+    "company": "KAUFLAND ROMANIA SCS",
+    "location": [
+      "BUCURESTI, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:08:38.736Z",
+    "status": "scraped",
+    "tags": [
+      "Contabilitate financiară",
+      "Audit financiar"
+    ],
+    "matchPercentage": 75,
+    "reason": "Internship în contabilitate furnizori la o multinațională, ideal pentru student cu cunoștințe de contabilitate și dorință de experiență practică."
+  },
+  {
+    "url": "https://alliancewd.wd3.myworkdayjobs.com/ro-RO/renault-group-careers/job/Mioveni/XMLNAME--Internship--Contabilitate-Furnizori--F-M-_JOBREQ_50271968",
+    "title": "Internship Contabilitate Furnizori (F/M)",
+    "company": "RENAULT SRL",
+    "location": [
+      "Mioveni, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-11T12:42:13.593Z",
     "status": "scraped",
     "tags": [
       "Contabilitate financiară",
       "Informatică pentru afaceri"
     ],
-    "matchPercentage": 80,
-    "reason": "Contabil entry-level cu soft SAGA. Potrivit excelent pentru un student - contabilitate primară, înregistrări zilnice, experiență practică."
+    "matchPercentage": 65,
+    "reason": "Contabilitate primară utilizând SAGA, direct relevant pentru competențele de contabilitate și entry-level."
   },
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/229622/TGS-Romania/Contabil-senior/-Specialist-contabilitate/-Senior-Accountant",
-    "title": "Contabil senior/ Specialist contabilitate/ Senior Accountant",
-    "company": "TGS ROMANIA ACCOUNTING &amp; TAX SERVICES S.R.L.",
+    "url": "https://www.leohr.ro/jobs/coordonator-departament-contabilitate/520/",
+    "title": "Coordonator Departament Contabilitate",
+    "company": "LEOHR S.R.L.",
+    "location": [
+      "Bucuresti,Sector 1, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-11T12:40:45.900Z",
+    "status": "scraped",
+    "tags": [
+      "Marketing",
+      "Cercetare de piață"
+    ],
+    "matchPercentage": 70,
+    "reason": "Specialist marketing în companie farmaceutică, foarte potrivit pentru competențele de marketing și cercetare de piață."
+  },
+  {
+    "url": "https://www.teamland.ro/apply.php?id=1152#content",
+    "title": "Digital marketing coordinator",
+    "company": "TEAMLAND SRL",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-05T12:02:02.913Z",
-    "status": "scraped",
-    "tags": [
-      "Contabilitate financiară",
-      "Control și audit"
-    ],
-    "matchPercentage": 55,
-    "reason": "Rol de contabil senior la firmă de contabilitate/audit. Competențele sunt perfect aliniate, dar nivelul de experiență cerut e prea mare pentru un student."
-  },
-  {
-    "url": "https://multijobs.ro/job/economist-contabilitate-analitica-si-de-gestiune/567",
-    "title": "Economist - Contabilitate Analitica si de Gestiune",
-    "company": "HYPERICUM IMPEX SRL",
-    "location": [
-      "Baia Mare, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-05T12:01:47.098Z",
-    "status": "scraped",
-    "tags": [
-      "Contabilitate managerială",
-      "Analiză economică"
-    ],
-    "matchPercentage": 70,
-    "reason": "Contabilitate analitică și de gestiune. Competențele de contabilitate managerială și analiză economică sunt direct relevante."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/angajez-contabil-contabilitate-primara",
-    "title": "Contabil - contabilitate primara",
-    "company": "INTERNATIONAL BUSINESS TRANSPORT SA",
-    "location": [
-      "Arad, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-05T12:01:26.413Z",
-    "status": "scraped",
-    "tags": [
-      "Contabilitate financiară",
-      "Contabilitate și audit"
-    ],
-    "matchPercentage": 80,
-    "reason": "Contabilitate primară la firmă de transport. Entry-level, potrivit pentru experiență practică în timpul studiilor."
-  },
-  {
-    "url": "https://www.antibiotice.ro/joburi/specialist-marketing/",
-    "title": "Specialist Marketing",
-    "company": "ANTIBIOTICE SA",
-    "location": [
-      "Iași"
-    ],
-    "salary": null,
-    "date": "2026-09-10T12:56:00.149Z",
-    "status": "scraped",
-    "tags": [
-      "Principii marketing",
-      "Marketing digital"
-    ],
-    "matchPercentage": 75,
-    "reason": "Specialist marketing în companie farmaceutică. Competențele de marketing, marketing digital și cercetare de piață sunt direct relevante."
-  },
-  {
-    "url": "https://careers.centric.eu/ro/open-positions/marketing-specialist/",
-    "title": "Marketing Specialist",
-    "company": "CENTRIC IT SOLUTIONS ROMANIA SRL",
-    "location": [
-      "Iași, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-10T12:50:11.905Z",
+    "date": "2026-09-13T13:14:50.689Z",
     "status": "scraped",
     "tags": [
       "Marketing digital",
-      "Cercetare de piață"
+      "Marketing si cercetare"
     ],
-    "matchPercentage": 75,
-    "reason": "Specialist marketing în IT. Campanii, content, digital marketing - competențele mele de marketing digital și cercetare sunt potrivite."
+    "matchPercentage": 65,
+    "reason": "Coordonare marketing digital se alinieaza cu competentele de marketing digital si marketing cercetare. Locatia Bucuresti este un dezavantaj, dar rolul ar putea fi accesibil pentru un student cu cunostinte bune."
   },
   {
-    "url": "https://recrutaresiselectie.ro/job/pr-marketing-executive-evenimente-corporate-si-premium/",
-    "title": "PR &amp; Marketing Executive – Evenimente Corporate și Premium",
-    "company": "HUMAN CAPITAL SRL",
+    "url": "https://www.teamland.ro/apply.php?id=1155#content",
+    "title": "Digital Marketing Coordinator",
+    "company": "TEAMLAND SRL",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-10T12:50:10.941Z",
+    "date": "2026-09-13T13:14:50.689Z",
     "status": "scraped",
     "tags": [
-      "Marketing și cercetare",
-      "Negocieri în afaceri"
+      "Marketing digital",
+      "Marketing si cercetare"
     ],
-    "matchPercentage": 55,
-    "reason": "PR și marketing pentru evenimente corporate. Marketingul e relevant, dar rolul e mai mult pe PR/comunicare decât pe competențele mele principale."
+    "matchPercentage": 65,
+    "reason": "Identic cu jobul precedent. Coordoneaza activitati de marketing digital, potrivit cu competentele studiate."
+  },
+  {
+    "url": "https://www.teamland.ro/apply.php?id=1144#content",
+    "title": "Internship marketing",
+    "company": "TEAMLAND SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:14:50.689Z",
+    "status": "scraped",
+    "tags": [
+      "Marketing si cercetare",
+      "Marketing digital"
+    ],
+    "matchPercentage": 80,
+    "reason": "Internship-ul in marketing este ideal pentru un student. Ofera oportunitatea de a pune in practica cunostintele de marketing si cercetare de piata intr-un mediu profesionist."
+  },
+  {
+    "url": "https://www.leohr.ro/jobs/marketing-executive/477/",
+    "title": "Marketing Executive",
+    "company": "LEOHR S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:14:47.936Z",
+    "status": "scraped",
+    "tags": [
+      "Marketing digital",
+      "Marketing si cercetare"
+    ],
+    "matchPercentage": 60,
+    "reason": "Rolul de Marketing Executive este potrivit pentru un student sau absolvent. Compania de recrutare ofera oportunitati de intrare in domeniul marketingului."
   }
 ]
