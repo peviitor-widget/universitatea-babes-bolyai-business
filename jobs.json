@@ -1,112 +1,5 @@
 [
   {
-    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Werkstudent-in-HR--m-w-d-_JR1092",
-    "title": "Werkstudent in HR (m/w/d)",
-    "company": "YOUGOV CP ROMANIA S.R.L.",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-29T12:22:10.206Z",
-    "status": "scraped",
-    "tags": [
-      "resurse umane",
-      "management hr"
-    ],
-    "matchPercentage": 95,
-    "reason": "Poziție de Werkstudent în HR, perfect adaptată pentru un student la Resurse Umane."
-  },
-  {
-    "url": "https://www.randstad.ro/locuri-de-munca/hr-recruiter-blue-collar_brasov_4869/",
-    "title": "HR Recruiter - Blue Collar",
-    "company": "RANDSTAD ROMANIA SRL",
-    "location": [
-      "Brașov",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-29T12:15:39.718Z",
-    "status": "scraped",
-    "tags": [
-      "resurse umane",
-      "recrutare"
-    ],
-    "matchPercentage": 90,
-    "reason": "Activitate de recrutare în domeniul HR, utilizând direct competențele de management al resurselor umane."
-  },
-  {
-    "url": "https://www.gaminvest.ro/cariere.html#post-3",
-    "title": "HR Recrutier Specialist - Gaminvest HR",
-    "company": "GAMINVEST SRL",
-    "location": [
-      "Oradea",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-29T12:09:14.216Z",
-    "status": "scraped",
-    "tags": [
-      "resurse umane",
-      "recrutare"
-    ],
-    "matchPercentage": 90,
-    "reason": "Recrutare HR, potrivită pentru un profil junior interesat de resurse umane."
-  },
-  {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/f9tE8zF21L",
-    "title": "Talent Acquisition Specialist - on site",
-    "company": "E-INFRA S.A.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-29T12:47:04Z",
-    "status": "scraped",
-    "tags": [
-      "resurse umane",
-      "recrutare"
-    ],
-    "matchPercentage": 90,
-    "reason": "Talent Acquisition este direct legat de managementul resurselor umane și recrutare."
-  },
-  {
-    "url": "https://careers.evolution.com/job/744000154654507/",
-    "title": "Talent Acquisition Specialist",
-    "company": "EVOLUTION PRODUCTS RO S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-29T12:45:32Z",
-    "status": "scraped",
-    "tags": [
-      "resurse umane",
-      "recrutare"
-    ],
-    "matchPercentage": 90,
-    "reason": "Activități de recrutare și selecție, relevante și accesibile unui profil entry-level."
-  },
-  {
-    "url": "https://multijobs.ro/job/marketing-assistant-with-czech-english-hybrid/5812",
-    "title": "MARKETING ASSISTANT with CZECH &amp; ENGLISH (Hybrid)",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:21:59.558Z",
-    "status": "scraped",
-    "tags": [
-      "marketing",
-      "cercetare"
-    ],
-    "matchPercentage": 90,
-    "reason": "Asistent de marketing, nivel entry-level, domeniu direct potrivit pentru competențele de marketing."
-  },
-  {
     "url": "https://www.ejobs.ro/user/locuri-de-munca/contabil-junior-contabilitate-primara-gestiune-saga/99249558",
     "title": "Contabil Junior| Contabilitate Primara / Gestiune| SAGA",
     "company": "KRONSTEF SRL",
@@ -119,185 +12,29 @@
     "date": "2026-10-17T12:21:18.987Z",
     "status": "scraped",
     "tags": [
+      "Contabilitate de bază",
+      "Sisteme informatice în afaceri"
+    ],
+    "matchPercentage": 90,
+    "reason": "Rol junior de contabilitate primară cu SAGA, foarte bine aliniat cu competențele contabile."
+  },
+  {
+    "url": "https://multijobs.ro/job/contabilitate-primara/1477",
+    "title": "Contabilitate primara",
+    "company": "D.B. TECHNOLIGHT SRL",
+    "location": [
+      "Brașov",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:20:41.370Z",
+    "status": "scraped",
+    "tags": [
       "Contabilitate",
-      "Contabilitate managerială"
+      "Analiză financiară"
     ],
-    "matchPercentage": 88,
-    "reason": "Poziție junior de contabilitate primară, direct relevantă pentru competențele tale contabile."
-  },
-  {
-    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zagreb-Croatia/Research-Consultant_JR0739",
-    "title": "Junior Research Consultant",
-    "company": "YOUGOV CP ROMANIA S.R.L.",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-29T12:22:10.206Z",
-    "status": "scraped",
-    "tags": [
-      "Cercetare de marketing",
-      "Analiză de date"
-    ],
-    "matchPercentage": 88,
-    "reason": "Consultant junior în cercetare, cu prelucrare și interpretare de date și recomandări de marketing, potrivire directă pe cercetare și analiză."
-  },
-  {
-    "url": "https://multijobs.ro/job/consultant-fiscal-junior/934",
-    "title": "Consultant fiscal Junior",
-    "company": "PKF FINCONTA SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:08:36.058Z",
-    "status": "scraped",
-    "tags": [
-      "Fiscalitate",
-      "Contabilitate"
-    ],
-    "matchPercentage": 88,
-    "reason": "Consultant fiscal junior folosește direct competențele de fiscalitate și contabilitate, la un nivel potrivit."
-  },
-  {
-    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Paris-France/Stage-de-fin-d-tudes---Charg-e--d-tudes-marketing_JR0775",
-    "title": "Stage de fin d&#039;études – Chargé(e) d’études marketing",
-    "company": "YOUGOV CP ROMANIA S.R.L.",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-29T12:22:10.206Z",
-    "status": "scraped",
-    "tags": [
-      "cercetare marketing",
-      "statistică aplicată"
-    ],
-    "matchPercentage": 88,
-    "reason": "Stagiu de studii marketing cu sarcini directe de cercetare, analiza de date si interpretare de rezultate."
-  },
-  {
-    "url": "https://www.randstad.ro/locuri-de-munca/hr-business-partner-hr-coordinator_bucuresti_5397/",
-    "title": "HR Business Partner / HR Coordinator",
-    "company": "RANDSTAD ROMANIA SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-29T12:15:39.718Z",
-    "status": "scraped",
-    "tags": [
-      "resurse umane",
-      "coordonare hr"
-    ],
-    "matchPercentage": 88,
-    "reason": "Rol generalist în HR, accesibil și relevant pentru un student/absolvent din domeniul Resurse Umane."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/Accesa/744000156785219",
-    "title": "Talent Acquisition Specialist (External Delivery Partners Team)",
-    "company": "ACCESA IT SYSTEMS SRL",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-29T12:11:42.424Z",
-    "status": "scraped",
-    "tags": [
-      "resurse umane",
-      "recrutare"
-    ],
-    "matchPercentage": 88,
-    "reason": "Talent Acquisition în cadrul unei echipe de delivery, relevant pentru profilul HR."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000113124977-internship-program",
-    "title": "Internship Program",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "Timișoara",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-29T12:41:42.608Z",
-    "status": "scraped",
-    "tags": [
-      "Finanțe",
-      "Contabilitate"
-    ],
-    "matchPercentage": 85,
-    "reason": "Program de internship pentru studenți la Business Administration, Contabilitate, Finanțe sau Economie, cu arie de activitate aleasă în domeniu."
-  },
-  {
-    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Junior-Consultant---Retail---Lifestyle--m-w-d-_JR0742",
-    "title": "Junior Consultant - Retail &amp; Lifestyle (m/w/d)",
-    "company": "YOUGOV CP ROMANIA S.R.L.",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-29T12:22:10.206Z",
-    "status": "scraped",
-    "tags": [
-      "Cercetare de marketing",
-      "Statistică aplicată"
-    ],
-    "matchPercentage": 85,
-    "reason": "Poziția junior implică analiza datelor de panel, cercetare de marketing și prezentarea de insights, potrivind direct competențele de specialitate."
-  },
-  {
-    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Director-Team-Lead-Convenience-Team--m-w-d-_JR0726",
-    "title": "Junior Consultant (m/w/d) im Bereich FMCG",
-    "company": "YOUGOV CP ROMANIA S.R.L.",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-29T12:22:10.206Z",
-    "status": "scraped",
-    "tags": [
-      "Cercetare de marketing",
-      "Statistică aplicată"
-    ],
-    "matchPercentage": 85,
-    "reason": "Rol junior de consultanță în cercetare de piață FMCG, cu analiză de date privind comportamentul consumatorului, potrivit competențelor de marketing și statistică."
-  },
-  {
-    "url": "https://www.leohr.ro/jobs/asistent-contabilitate-franceza-avansat/290/",
-    "title": "Asistent contabilitate - Franceza avansat",
-    "company": "LEOHR S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:04:26.630Z",
-    "status": "scraped",
-    "tags": [
-      "contabilitate",
-      "fiscalitate"
-    ],
-    "matchPercentage": 85,
-    "reason": "Asistent contabilitate, nivel junior, domeniu direct în sfera financiar-contabilă."
-  },
-  {
-    "url": "https://cariere.metro.ro/job/treasury-economist-in-bulevardul-theodor-pallady-bucuresti-jid-34259",
-    "title": "Treasury Economist",
-    "company": "METRO CASH &amp; CARRY ROMANIA SRL",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-29T12:08:23.309Z",
-    "status": "scraped",
-    "tags": [
-      "Finanțe",
-      "Previziuni financiare"
-    ],
-    "matchPercentage": 80,
-    "reason": "Rolul de Treasury Economist se potrivește direct cu finanțele și analiza financiară, iar nivelul pare adecvat unui absolvent."
+    "matchPercentage": 90,
+    "reason": "Primary accounting role directly uses accounting competencies."
   },
   {
     "url": "https://multijobs.ro/job/analist-raportare-financiara-ploiesti/5217",
@@ -311,65 +48,132 @@
     "date": "2026-10-17T12:19:41.422Z",
     "status": "scraped",
     "tags": [
-      "Analiză financiară",
+      "Raportare",
       "Contabilitate"
     ],
-    "matchPercentage": 80,
-    "reason": "Analiza și raportarea financiară se potrivesc direct cu competențele de contabilitate și analiză financiară, la un nivel de analist."
+    "matchPercentage": 88,
+    "reason": "Financial reporting analyst uses accounting and financial analysis skills."
   },
   {
-    "url": "https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-german-bucurestiiasi_bucuresti_5472/",
-    "title": "junior specialist accounting &amp; finance with german (bucuresti/iasi)",
-    "company": "RANDSTAD ROMANIA SRL",
+    "url": "https://multijobs.ro/job/consultant-fiscal-junior/934",
+    "title": "Consultant fiscal Junior",
+    "company": "PKF FINCONTA SRL",
     "location": [
-      "Iași",
+      "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-29T12:15:39.718Z",
+    "date": "2026-10-17T12:08:36.058Z",
     "status": "scraped",
     "tags": [
-      "Contabilitate financiară",
-      "Finanțe"
+      "fiscalitate",
+      "consultanta"
     ],
-    "matchPercentage": 80,
-    "reason": "Specialist junior în contabilitate și finanțe cu operațiuni bancare, potrivit competențelor de contabilitate și finanțe."
+    "matchPercentage": 88,
+    "reason": "Consultant fiscal junior foloseste direct fiscalitatea si consultanta economica la nivel potrivit."
   },
   {
-    "url": "https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-italian-bucuresti_bucuresti_5469/",
-    "title": "junior specialist accounting &amp; finance with italian_ bucuresti",
-    "company": "RANDSTAD ROMANIA SRL",
+    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zagreb-Croatia/Research-Consultant_JR0739",
+    "title": "Junior Research Consultant",
+    "company": "YOUGOV CP ROMANIA S.R.L.",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-30T12:13:27.277Z",
+    "status": "scraped",
+    "tags": [
+      "cercetare de marketing",
+      "analiză de date"
+    ],
+    "matchPercentage": 86,
+    "reason": "Poziția junior presupune analiză de date, interpretare de rezultate și prezentarea de insight-uri de cercetare."
+  },
+  {
+    "url": "https://cariere.metro.ro/job/treasury-economist-in-bulevardul-theodor-pallady-bucuresti-jid-34259",
+    "title": "Treasury Economist",
+    "company": "METRO CASH &amp; CARRY ROMANIA SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-30T11:59:23.070Z",
+    "status": "scraped",
+    "tags": [
+      "Finanțe",
+      "Econometrie"
+    ],
+    "matchPercentage": 85,
+    "reason": "Treasury/economics role uses macro/microeconomic and financial analysis skills."
+  },
+  {
+    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Paris-France/Stage-de-fin-d-tudes---Charg-e--d-tudes-marketing_JR0775",
+    "title": "Stage de fin d&#039;études – Chargé(e) d’études marketing",
+    "company": "YOUGOV CP ROMANIA S.R.L.",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-30T12:13:27.277Z",
+    "status": "scraped",
+    "tags": [
+      "cercetare marketing",
+      "analiza datelor"
+    ],
+    "matchPercentage": 85,
+    "reason": "Stagiu de studii marketing cu cercetare de piata, analiza datelor si comportamentul consumatorului, direct relevant."
+  },
+  {
+    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Junior-Consultant---Retail---Lifestyle--m-w-d-_JR0742",
+    "title": "Junior Consultant - Retail &amp; Lifestyle (m/w/d)",
+    "company": "YOUGOV CP ROMANIA S.R.L.",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-30T12:13:27.277Z",
+    "status": "scraped",
+    "tags": [
+      "cercetare de marketing",
+      "analiză de date"
+    ],
+    "matchPercentage": 84,
+    "reason": "Poziția junior implică analiza datelor de panel, cercetare de marketing și formularea de recomandări pentru clienți."
+  },
+  {
+    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Director-Team-Lead-Convenience-Team--m-w-d-_JR0726",
+    "title": "Junior Consultant (m/w/d) im Bereich FMCG",
+    "company": "YOUGOV CP ROMANIA S.R.L.",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-30T12:13:27.277Z",
+    "status": "scraped",
+    "tags": [
+      "cercetare de marketing",
+      "analiză de date"
+    ],
+    "matchPercentage": 82,
+    "reason": "Rolul junior se bazează pe analiza datelor de consum și interpretarea lor pentru marketing și category management."
+  },
+  {
+    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bucharest-Romania/Market-Analyst_JR1115",
+    "title": "Market Analyst",
+    "company": "YOUGOV CP ROMANIA S.R.L.",
     "location": [
       "București",
-      "Romania"
+      "România"
     ],
     "salary": null,
-    "date": "2026-10-29T12:15:39.718Z",
+    "date": "2026-10-30T12:13:27.277Z",
     "status": "scraped",
     "tags": [
-      "Contabilitate financiară",
-      "Finanțe"
+      "analiza datelor",
+      "cercetare marketing"
     ],
-    "matchPercentage": 80,
-    "reason": "Specialist junior în contabilitate și finanțe cu operațiuni bancare, potrivit competențelor de contabilitate și finanțe."
-  },
-  {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/oGtJRnEtGr",
-    "title": "Economist (Contract pe perioada determinata – 2 ani - on-site)",
-    "company": "E-INFRA S.A.",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-29T12:47:04Z",
-    "status": "scraped",
-    "tags": [
-      "analiză",
-      "finanțe"
-    ],
-    "matchPercentage": 80,
-    "reason": "Poziție de Economist cu sarcini financiare-contabile direct relevante, nivel acceptabil la limita de 3 ani experiență."
+    "matchPercentage": 82,
+    "reason": "Analist de piata care prelucreaza volume mari de date cu Excel si extrage insights din comportamentul cumparatorilor."
   },
   {
     "url": "https://www.gaminvest.ro/cariere.html#post-4",
@@ -380,14 +184,174 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-29T12:09:14.216Z",
+    "date": "2026-10-30T11:59:59.695Z",
+    "status": "scraped",
+    "tags": [
+      "Contabilitate de bază",
+      "Contabilitate financiară"
+    ],
+    "matchPercentage": 80,
+    "reason": "Contabil la un birou de contabilitate, rol mid care folosește direct competențele contabile."
+  },
+  {
+    "url": "https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-german-bucurestiiasi_bucuresti_5472/",
+    "title": "junior specialist accounting &amp; finance with german (bucuresti/iasi)",
+    "company": "RANDSTAD ROMANIA SRL",
+    "location": [
+      "Iași",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-30T12:06:08.192Z",
+    "status": "scraped",
+    "tags": [
+      "contabilitate",
+      "finanțe"
+    ],
+    "matchPercentage": 80,
+    "reason": "Poziția junior în contabilitate și finanțe folosește direct cunoștințele de contabilitate, operațiuni bancare și instrumente financiare."
+  },
+  {
+    "url": "https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-italian-bucuresti_bucuresti_5469/",
+    "title": "junior specialist accounting &amp; finance with italian_ bucuresti",
+    "company": "RANDSTAD ROMANIA SRL",
+    "location": [
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-30T12:06:08.192Z",
+    "status": "scraped",
+    "tags": [
+      "contabilitate",
+      "finanțe"
+    ],
+    "matchPercentage": 80,
+    "reason": "Poziția junior în contabilitate și finanțe folosește direct cunoștințele de contabilitate, operațiuni bancare și instrumente financiare."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/oGtJRnEtGr",
+    "title": "Economist (Contract pe perioada determinata – 2 ani - on-site)",
+    "company": "E-INFRA S.A.",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-30T12:38:48Z",
     "status": "scraped",
     "tags": [
       "Contabilitate",
       "Analiză financiară"
     ],
-    "matchPercentage": 76,
-    "reason": "Rol de contabilitate potrivit domeniului financiar-contabil, la un nivel acceptabil pentru absolvent."
+    "matchPercentage": 80,
+    "reason": "Economist cu minimum 3 ani experiență, nivel mid acceptat, cu sarcini directe de contabilitate și raportare financiară."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157406719-working-student-logistics-controlling",
+    "title": "Working Student Logistics Controlling",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-30T12:33:14.291Z",
+    "status": "scraped",
+    "tags": [
+      "Control financiar",
+      "Analiză financiară"
+    ],
+    "matchPercentage": 75,
+    "reason": "Monitorizarea costurilor logistice, analiza cheltuielilor și raportarea către controlling se potrivesc direct cu competențele de control financiar și analiză economică."
+  },
+  {
+    "url": "https://www.leohr.ro/jobs/asistent-contabilitate-franceza-avansat/290/",
+    "title": "Asistent contabilitate - Franceza avansat",
+    "company": "LEOHR S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:04:26.630Z",
+    "status": "scraped",
+    "tags": [
+      "Contabilitate",
+      "Franceză"
+    ],
+    "matchPercentage": 75,
+    "reason": "Rol entry-level de asistent contabilitate care folosește direct cunoștințele de contabilitate financiară."
+  },
+  {
+    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Werkstudent-in-HR--m-w-d-_JR1092",
+    "title": "Werkstudent in HR (m/w/d)",
+    "company": "YOUGOV CP ROMANIA S.R.L.",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-30T12:13:27.277Z",
+    "status": "scraped",
+    "tags": [
+      "resurse umane",
+      "sisteme informatice"
+    ],
+    "matchPercentage": 72,
+    "reason": "Werkstudent în HR cu sarcini operative și strategice de resurse umane, potrivit nivelului de student."
+  },
+  {
+    "url": "https://careers.evolution.com/job/744000154654507/",
+    "title": "Talent Acquisition Specialist",
+    "company": "EVOLUTION PRODUCTS RO S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-30T12:37:07Z",
+    "status": "scraped",
+    "tags": [
+      "resurse umane",
+      "psihologia muncii"
+    ],
+    "matchPercentage": 66,
+    "reason": "Recrutare, integrare și proiecte HR, potrivit pentru un absolvent sau candidat entry/mid."
+  },
+  {
+    "url": "https://www.msg-systems.ro/en/careers/student-programs/#sap-summer-school",
+    "title": "📊 SAP Summer School",
+    "company": "MSG SYSTEMS ROMÂNIA SRL",
+    "location": [
+      "Timișoara",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-30T12:11:04.995Z",
+    "status": "scraped",
+    "tags": [
+      "Sisteme informatice",
+      "Business analytics"
+    ],
+    "matchPercentage": 65,
+    "reason": "Program de vară pe SAP, relevant pentru sisteme informatice în afaceri și analiză de date, la nivel de student."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157805495-working-student-in-sales-planning",
+    "title": "Working Student in Sales Planning",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-30T12:33:14.291Z",
+    "status": "scraped",
+    "tags": [
+      "Previziuni financiare",
+      "Analiză de date"
+    ],
+    "matchPercentage": 65,
+    "reason": "Planificarea volum-preț, analiza datelor și forecast-ul folosesc competențe de analiză financiară și previziune, chiar dacă rolul este în zona comercială."
   },
   {
     "url": "https://dreamjobs.ro/ro/job/startuphub/consultant-in-fonduri-europene-2",
@@ -401,11 +365,82 @@
     "date": "2026-10-17T11:59:22.731Z",
     "status": "scraped",
     "tags": [
-      "proiecte",
-      "finanțe"
+      "Fonduri europene",
+      "Analiză economică"
     ],
-    "matchPercentage": 75,
-    "reason": "Consultanță în fonduri europene are relevanță parțială pentru finanțe/economie, nivel potrivit."
+    "matchPercentage": 65,
+    "reason": "Consultant în fonduri europene, nivel medior, cu activități de analiză financiară și gestionare de proiecte relevante parțial."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/f9tE8zF21L",
+    "title": "Talent Acquisition Specialist - on site",
+    "company": "E-INFRA S.A.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-30T12:38:48Z",
+    "status": "scraped",
+    "tags": [
+      "resurse umane",
+      "comunicare"
+    ],
+    "matchPercentage": 64,
+    "reason": "Talent acquisition pe ciclu complet de recrutare, domeniu HR și nivel compatibil."
+  },
+  {
+    "url": "https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Connected-Solutions-Administrator_R-2026037451",
+    "title": "Connected Solutions Administrator with French",
+    "company": "MICHELIN ROMANIA S.A.",
+    "location": [
+      "Voluntari",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-30T11:51:37.606Z",
+    "status": "scraped",
+    "tags": [
+      "Contabilitate financiară",
+      "Dreptul afacerilor"
+    ],
+    "matchPercentage": 63,
+    "reason": "Rol entry-level de facturare și administrare contracte/prețuri, cu aplicare parțială a contabilității și dreptului afacerilor."
+  },
+  {
+    "url": "https://www.randstad.ro/locuri-de-munca/hr-recruiter-blue-collar_brasov_4869/",
+    "title": "HR Recruiter - Blue Collar",
+    "company": "RANDSTAD ROMANIA SRL",
+    "location": [
+      "Brașov",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-30T12:06:08.192Z",
+    "status": "scraped",
+    "tags": [
+      "resurse umane",
+      "negociere"
+    ],
+    "matchPercentage": 63,
+    "reason": "Recrutare blue-collar în departamentul HR, domeniu parțial potrivit și nivel compatibil."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158482969-working-student-production-digitalization",
+    "title": "Working Student - Production Digitalization",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-30T12:33:14.291Z",
+    "status": "scraped",
+    "tags": [
+      "Analiză de date",
+      "Business analytics"
+    ],
+    "matchPercentage": 62,
+    "reason": "Rolul implică raportare automatizată, KPI și dashboard-uri de analiză, folosind parțial competențele de analiză și prelucrare a datelor."
   },
   {
     "url": "https://www.jobradar24.ro/anunt/operator-contabilitate-primara-gestiune-buftea-6qmqjv",
@@ -419,10 +454,10 @@
     "date": "2026-10-17T12:20:56.264Z",
     "status": "scraped",
     "tags": [
-      "Contabilitate"
+      "Contabilitate de bază"
     ],
-    "matchPercentage": 72,
-    "reason": "Rol entry-level de operator contabilitate primară, parțial potrivit bazei tale contabile."
+    "matchPercentage": 62,
+    "reason": "Operator de contabilitate primară/gestiune, rol entry-level care aplică noțiuni de contabilitate de bază."
   },
   {
     "url": "https://www.jobradar24.ro/anunt/operator-contabilitate-primara-gestiune-buftea-5p5pkp",
@@ -436,62 +471,46 @@
     "date": "2026-10-17T12:20:56.264Z",
     "status": "scraped",
     "tags": [
-      "Contabilitate"
+      "Contabilitate de bază"
     ],
-    "matchPercentage": 72,
-    "reason": "Rol entry-level de operator contabilitate primară, parțial potrivit bazei tale contabile."
+    "matchPercentage": 62,
+    "reason": "Operator de contabilitate primară/gestiune, rol entry-level care aplică noțiuni de contabilitate de bază."
   },
   {
-    "url": "https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Connected-Solutions-Administrator_R-2026037451",
-    "title": "Connected Solutions Administrator with French",
-    "company": "MICHELIN ROMANIA S.A.",
+    "url": "https://apply.workable.com/j/53493DD9A2",
+    "title": "Contract Specialist",
+    "company": "NUVEI SERVICES ROMANIA S.R.L.",
     "location": [
-      "Voluntari",
+      "Iași",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-29T11:57:24.683Z",
+    "date": "2026-10-30T12:40:08.946Z",
     "status": "scraped",
     "tags": [
-      "Contabilitate",
-      "Control financiar"
+      "dreptul afacerilor",
+      "contracte comerciale"
     ],
-    "matchPercentage": 70,
-    "reason": "Administrează contracte, prețuri și facturare, cu verificări de control intern, activitate apropiată de finanțe-contabilitate la nivel entry/mid."
+    "matchPercentage": 62,
+    "reason": "Contract Specialist foloseste partial dreptul afacerilor si contractele comerciale, dar rolul este mai degraba juridico-administrativ."
   },
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155728469-working-student-controlling-area",
-    "title": "Working Student - Controlling area",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152910009-intermediate-data-scientist-for-e-mobility-cloud-solutions",
+    "title": "Intermediate Data Scientist for (e-)Mobility Cloud Solutions",
     "company": "ROBERT BOSCH SRL",
     "location": [
-      "România"
+      "Cluj-Napoca",
+      "Romania"
     ],
     "salary": null,
-    "date": "2026-10-29T12:41:42.608Z",
+    "date": "2026-10-30T12:33:14.291Z",
     "status": "scraped",
     "tags": [
-      "Control financiar",
-      "Analiză financiară"
+      "Statistică aplicată",
+      "Analiză de date"
     ],
-    "matchPercentage": 70,
-    "reason": "Planificare P&L, bugetare, raportare lunară și analize sunt activități directe de control financiar și analiză economică."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158482969-working-student-production-digitalization",
-    "title": "Working Student - Production Digitalization",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-29T12:41:42.608Z",
-    "status": "scraped",
-    "tags": [
-      "Business analytics",
-      "Excel"
-    ],
-    "matchPercentage": 68,
-    "reason": "Automatizarea rapoartelor, monitorizarea KPI și crearea de dashboard-uri folosesc direct analiza de date și sistemele informatice în afaceri."
+    "matchPercentage": 62,
+    "reason": "Rol intermediate de data scientist care valorifică parțial statistică și analiza datelor, deși componenta tehnică depășește planul de învățământ."
   },
   {
     "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272623/SCHAEFFLER/Internship-Project-Management-Office",
@@ -508,25 +527,7 @@
       "Management operațional",
       "Business analytics"
     ],
-    "matchPercentage": 65,
-    "reason": "Internship în Project Management Office, potrivit pentru management operațional, raportare și analiză de date la nivel entry-level."
-  },
-  {
-    "url": "https://www.prohuman.ro/candidati/jobs/AnalistOperatiuniBackOfficefranceza",
-    "title": "Analist Operatiuni Back-Office cu limba franceza (nivelul B2 scris si, respectiv, B1 oral)",
-    "company": "PROHUMAN APT S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:22:35.322Z",
-    "status": "scraped",
-    "tags": [
-      "Contabilitate",
-      "Limbi străine"
-    ],
-    "matchPercentage": 65,
-    "reason": "Jobul implică operațiuni financiar-bancare și calcule contabile, cu experiență de 1-2 ani potrivită nivelului entry-level."
+    "matchPercentage": 60,
+    "reason": "Internship în Project Management Office, potrivit parțial pentru management operațional și analiză de date la nivel entry-level."
   }
 ]
