@@ -1,20 +1,39 @@
 [
   {
-    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Paris-France/Stage-de-fin-d-tudes---Charg-e--d-tudes-marketing_JR0775",
-    "title": "Stage de fin d&#039;études – Chargé(e) d’études marketing",
-    "company": "YOUGOV CP ROMANIA S.R.L.",
+    "url": "https://gaminvest.ro/ro/cariere/contabil-junior-birou-oradea-2",
+    "title": "Contabil junior — birou Oradea",
+    "company": "GAMINVEST SRL",
     "location": [
-      "România"
+      "Oradea",
+      "Romania"
     ],
     "salary": null,
-    "date": "2026-11-13T13:59:14.467Z",
+    "date": "2026-11-15T08:10:25.110Z",
     "status": "scraped",
     "tags": [
-      "Cercetare marketing",
-      "Analiză date"
+      "Contabilitate",
+      "Contabilitate financiară"
     ],
-    "matchPercentage": 92,
-    "reason": "Stagiu de studii marketing cu cercetare, analiza datelor si interpretare de rezultate, potrivit nivelului de student sau absolvent."
+    "matchPercentage": 90,
+    "reason": "Contabil junior, rol entry-level care aplică direct competențele de contabilitate financiară și managerială."
+  },
+  {
+    "url": "https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-german-bucurestiiasi_bucuresti_5472/",
+    "title": "junior specialist accounting &amp;amp;amp; finance with german (bucuresti/iasi)",
+    "company": "RANDSTAD ROMANIA SRL",
+    "location": [
+      "Iași",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-14T15:04:39.498Z",
+    "status": "scraped",
+    "tags": [
+      "Contabilitate",
+      "Finanțe"
+    ],
+    "matchPercentage": 88,
+    "reason": "Rol junior de contabilitate și finanțe, cu aplicare directă a competențelor financiare."
   },
   {
     "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bucharest-Romania/Market-Analyst_JR1115",
@@ -25,50 +44,14 @@
       "România"
     ],
     "salary": null,
-    "date": "2026-11-13T13:59:14.467Z",
+    "date": "2026-11-14T13:01:24.466Z",
     "status": "scraped",
     "tags": [
-      "Analiză date",
-      "Business analytics"
+      "Cercetare de marketing",
+      "Statistică aplicată"
     ],
-    "matchPercentage": 87,
-    "reason": "Analist de piata cu prelucrare de date, raportare Excel si analiza tendintelor, potrivit domeniului business analytics."
-  },
-  {
-    "url": "https://gaminvest.ro/ro/cariere/contabil-junior-birou-oradea-2",
-    "title": "Contabil junior — birou Oradea",
-    "company": "GAMINVEST SRL",
-    "location": [
-      "Oradea",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-14T08:52:31.536Z",
-    "status": "scraped",
-    "tags": [
-      "Contabilitate",
-      "Contabilitate financiară"
-    ],
-    "matchPercentage": 85,
-    "reason": "Contabil junior care folosește direct competențele de contabilitate, la nivel entry-level potrivit."
-  },
-  {
-    "url": "https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-german-bucurestiiasi_bucuresti_5472/",
-    "title": "junior specialist accounting &amp; finance with german (bucuresti/iasi)",
-    "company": "RANDSTAD ROMANIA SRL",
-    "location": [
-      "Iași",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-13T13:53:42.731Z",
-    "status": "scraped",
-    "tags": [
-      "Contabilitate",
-      "Finanțe"
-    ],
-    "matchPercentage": 85,
-    "reason": "Specialist junior finanțe-contabilitate cu germană, folosește direct competențele financiar-contabile."
+    "matchPercentage": 88,
+    "reason": "Market Analyst presupune analiză de date și raportare în cercetare de marketing, potrivit pentru entry/junior."
   },
   {
     "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Junior-Consultant---Retail---Lifestyle--m-w-d-_JR0742",
@@ -78,84 +61,84 @@
       "România"
     ],
     "salary": null,
-    "date": "2026-11-13T13:59:14.467Z",
+    "date": "2026-11-14T13:01:24.466Z",
     "status": "scraped",
     "tags": [
       "Cercetare de marketing",
-      "Analiză de date"
+      "Statistică aplicată"
     ],
     "matchPercentage": 82,
-    "reason": "Consultant junior în cercetare de piață, cu analiză de panel și prezentare de insights, potrivit profilului."
+    "reason": "Consultant junior în cercetare de piață, cu analiză de date și interpretare de insights."
   },
   {
-    "url": "https://apply.workable.com/j/F3B1A294E6",
-    "title": "Business Analyst",
-    "company": "SEDONA DIGITAL S.R.L.",
+    "url": "https://www.jobrapid.ro/locuri-de-munca/analist-de-afaceri-in-domeniul-tic-in-alba-iulia-1732725.html",
+    "title": "Analist De Afaceri In Domeniul Tic",
+    "company": "RAPEL SRL",
     "location": [
-      "România"
+      "Domeniul Tic In Alba Iulia",
+      "Romania"
     ],
     "salary": null,
-    "date": "2026-11-13T14:14:17.651Z",
+    "date": "2026-11-14T12:56:52.386Z",
     "status": "scraped",
     "tags": [
       "Business analytics",
       "Sisteme informatice"
     ],
-    "matchPercentage": 75,
-    "reason": "Business Analyst valorifică analiza de date, modelarea și sistemele informatice în afaceri, la un nivel compatibil cu junior/mid."
+    "matchPercentage": 76,
+    "reason": "Analist de afaceri în TIC: analizează nevoi, definește specificații și testează soluții, potrivit pentru business analytics și sisteme informatice."
   },
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152910009-intermediate-data-scientist-for-e-mobility-cloud-solutions",
-    "title": "Intermediate Data Scientist for (e-)Mobility Cloud Solutions",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160547899-working-student-digitalization-for-logistics",
+    "title": "Working Student Digitalization for Logistics",
     "company": "ROBERT BOSCH SRL",
     "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-13T14:22:01.036Z",
-    "status": "scraped",
-    "tags": [
-      "Statistică aplicată",
-      "Analiză de date"
-    ],
-    "matchPercentage": 75,
-    "reason": "Poziție intermediate de data scientist cu aplicații de analiză a datelor, potrivită parțial pentru statistică și business analytics."
-  },
-  {
-    "url": "https://www.msg-systems.ro/en/careers/student-programs/#sap-summer-school",
-    "title": "📊 SAP Summer School",
-    "company": "MSG SYSTEMS ROMÂNIA SRL",
-    "location": [
-      "Timișoara",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-13T13:57:40.646Z",
-    "status": "scraped",
-    "tags": [
-      "Sisteme informatice",
-      "Business analytics"
-    ],
-    "matchPercentage": 72,
-    "reason": "Programul SAP Summer School ofera pregatire entry-level in sisteme informatice de afaceri, potrivit pentru un student la business."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/Accesa/744000160815670",
-    "title": "Junior Product Owner with German – Academy",
-    "company": "ACCESA IT SYSTEMS SRL",
-    "location": [
       "România"
     ],
     "salary": null,
-    "date": "2026-11-13T13:50:54.949Z",
+    "date": "2026-11-14T13:17:33.600Z",
     "status": "scraped",
     "tags": [
       "Business analytics",
       "Sisteme informatice"
     ],
+    "matchPercentage": 72,
+    "reason": "Digitalization role involving automated reporting, data collection and Power BI dashboards directly uses business analytics and business information systems competencies."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/f9tE8zF21L",
+    "title": "Talent Acquisition Specialist - on site",
+    "company": "E-INFRA S.A.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-14T15:08:18Z",
+    "status": "scraped",
+    "tags": [
+      "Resurse umane"
+    ],
     "matchPercentage": 70,
-    "reason": "Poziție junior în analiză de business și cerințe pentru proiecte bancare, potrivită parțial pentru competențele de business analytics și sisteme informatice."
+    "reason": "Specialist recrutare în departamentul HR, cu aplicare directă a competențelor de resurse umane."
+  },
+  {
+    "url": "https://careers.evolution.com/job/744000154654507/",
+    "title": "Talent Acquisition Specialist",
+    "company": "EVOLUTION PRODUCTS RO S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-14T13:20:53Z",
+    "status": "scraped",
+    "tags": [
+      "Resurse umane",
+      "Psihologia muncii"
+    ],
+    "matchPercentage": 70,
+    "reason": "Rol entry/mid în recrutare, care aplică direct competențele de resurse umane și evaluare a candidaților."
   },
   {
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161107900-working-student-in-sales-planning",
@@ -166,31 +149,31 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-13T14:22:01.036Z",
+    "date": "2026-11-14T13:17:33.600Z",
     "status": "scraped",
     "tags": [
-      "Analiza de date",
+      "Analiză de date",
       "Previziuni financiare"
     ],
     "matchPercentage": 68,
-    "reason": "Postul de working student presupune analiza de date, planificare si previziuni in tool-uri de controlling, relevant partial pentru business analytics."
+    "reason": "Working student role focused on data analysis, volume-price planning and forecast tracking, using Excel and sales controlling tools, which partially matches business analytics and financial forecasting competencies."
   },
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160547899-working-student-digitalization-for-logistics",
-    "title": "Working Student Digitalization for Logistics",
-    "company": "ROBERT BOSCH SRL",
+    "url": "https://jobs.smartrecruiters.com/Accesa/744000160815670",
+    "title": "Junior Product Owner with German – Academy",
+    "company": "ACCESA IT SYSTEMS SRL",
     "location": [
       "România"
     ],
     "salary": null,
-    "date": "2026-11-13T14:22:01.036Z",
+    "date": "2026-11-14T12:53:56.791Z",
     "status": "scraped",
     "tags": [
       "Business analytics",
-      "Excel"
+      "Sisteme informatice"
     ],
     "matchPercentage": 68,
-    "reason": "Activitate de raportare, automatizare și dashboarduri Power BI, apropiată de business analytics."
+    "reason": "Product Owner junior în banking, cu documentare de cerințe și interfață business-IT."
   },
   {
     "url": "https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/HR-Administrator-with-French_R-2026041484",
@@ -201,13 +184,31 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-13T13:37:50.450Z",
+    "date": "2026-11-14T12:42:34.594Z",
     "status": "scraped",
     "tags": [
-      "Resurse umane",
-      "Excel"
+      "Managementul resurselor umane",
+      "Comunicare în limbi străine"
     ],
     "matchPercentage": 68,
-    "reason": "HR Administrator cu franceza, rol entry-level in resurse umane cu procese HR, Excel si legislatie a muncii, potrivire partiala."
+    "reason": "HR Administrator cu franceză, nivel 1-2 ani, folosește cunoștințe de resurse umane și legislația muncii."
+  },
+  {
+    "url": "https://yardiromania.breezy.hr/p/81a70a584a6901-seo-engineer-ii-wework",
+    "title": "SEO Engineer II (WeWork)",
+    "company": "YARDI CALL CENTER SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-14T15:08:01.464Z",
+    "status": "scraped",
+    "tags": [
+      "Marketing digital",
+      "Prelucrare date"
+    ],
+    "matchPercentage": 65,
+    "reason": "Rol de SEO în marketing digital, cu nivel II compatibil cu mid și activitate pe date și strategie online."
   }
 ]
