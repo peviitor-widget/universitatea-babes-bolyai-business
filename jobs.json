@@ -1,213 +1,290 @@
 [
   {
-    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Paris-France/Stage-de-fin-d-tudes---Charg-e--d-tudes-marketing_JR0775",
-    "title": "Stage de fin d&#039;études – Chargé(e) d’études marketing",
-    "company": "YOUGOV CP ROMANIA S.R.L.",
+    "url": "https://alliancewd.wd3.myworkdayjobs.com/ro-RO/renault-group-careers/job/Mioveni/XMLNAME--Internship--Contabilitate-Furnizori--F-M-_JOBREQ_50287050",
+    "title": "Internship Contabilitate Furnizori (F/M)",
+    "company": "RENAULT SRL",
     "location": [
-      "România"
+      "Mioveni",
+      "Romania"
     ],
     "salary": null,
-    "date": "2026-11-15T13:29:29.547Z",
-    "status": "scraped",
+    "date": "2026-11-17T09:34:20Z",
+    "status": "tested",
     "tags": [
-      "Cercetare de marketing",
-      "Comportamentul consumatorului"
+      "Contabilitate",
+      "Fiscalitate"
     ],
     "matchPercentage": 92,
-    "reason": "Stage de final de studii in cercetare de marketing, cu activitati directe de analiza, anchete si interpretarea comportamentului consumatorului."
+    "reason": "Internship de contabilitate furnizori, domeniu direct relevant și nivel de început de carieră."
   },
   {
-    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bucharest-Romania/Market-Analyst_JR1115",
-    "title": "Market Analyst",
-    "company": "YOUGOV CP ROMANIA S.R.L.",
+    "url": "https://multijobs.ro/job/analist-financiar-credite-pj/72",
+    "title": "Analist financiar credite PJ",
+    "company": "VITAS INSTITUTIE FINANCIARA NEBANCARA S.A.",
     "location": [
-      "București",
-      "România"
+      "Timișoara",
+      "Romania"
     ],
     "salary": null,
-    "date": "2026-11-15T13:29:29.547Z",
-    "status": "scraped",
+    "date": "2026-11-17T11:01:49Z",
+    "status": "tested",
     "tags": [
-      "Cercetare de marketing",
-      "Statistica aplicata"
+      "Analiză financiară",
+      "Contabilitate"
     ],
     "matchPercentage": 88,
-    "reason": "Market Analyst implica analiza datelor de piata si cercetare de marketing, folosind Excel si raportare, potrivit pregatirii tale."
+    "reason": "Analist financiar credite PJ folosește direct analiza economică și financiară a firmelor, la nivel entry/mid."
   },
   {
-    "url": "https://apply.workable.com/j/F3B1A294E6",
-    "title": "Business Analyst",
-    "company": "SEDONA DIGITAL S.R.L.",
+    "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000161477259-research-executive",
+    "title": "Research Executive",
+    "company": "NIELSEN INTERNATIONAL CORPORATION SRL",
     "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-11-15T13:40:31.287Z",
-    "status": "scraped",
-    "tags": [
-      "Business analytics",
-      "Sisteme informatice"
-    ],
-    "matchPercentage": 82,
-    "reason": "Rolul de Business Analyst într-o companie de consultanță IT implică analiză de business și sisteme informatice, potrivite competențelor tale."
-  },
-  {
-    "url": "https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/HR-Administrator-with-French_R-2026041484",
-    "title": "HR Administrator with French",
-    "company": "MICHELIN ROMANIA S.A.",
-    "location": [
-      "Voluntari",
+      "București",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-15T13:09:23.572Z",
-    "status": "scraped",
+    "date": "2026-11-17T12:26:30Z",
+    "status": "tested",
     "tags": [
-      "HR",
-      "Administrare"
+      "Cercetare marketing",
+      "comportament consumator"
     ],
-    "matchPercentage": 82,
-    "reason": "Rol de administrare HR potrivit profilului, cu cerință de 1-2 ani experiență (nivel junior)."
+    "matchPercentage": 88,
+    "reason": "Research Executive la Nielsen, cercetare de marketing și comportamentul consumatorului la nivel entry-level."
   },
   {
-    "url": "https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-german-bucurestiiasi_bucuresti_5472/",
-    "title": "junior specialist accounting &amp;amp;amp;amp; finance with german (bucuresti/iasi)",
-    "company": "RANDSTAD ROMANIA SRL",
+    "url": "https://cariere.bancatransilvania.ro/joburi-disponibile/it-business-analyst-3",
+    "title": "IT Business Analyst",
+    "company": "BANCA TRANSILVANIA SA",
     "location": [
-      "Iași",
+      "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-15T13:24:59.877Z",
-    "status": "scraped",
+    "date": "2026-11-17T12:36:59Z",
+    "status": "tested",
+    "tags": [
+      "business analytics",
+      "sisteme informatice"
+    ],
+    "matchPercentage": 85,
+    "reason": "IT Business Analyst foloseste direct analiza de business si sistemele informatice in afaceri, fara cerinte de senioritate."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/222113/JumpStart---A-GenZ-Career-Hub/Programe-de-internship,-trainee-sau-joburi-entry-level-in-Contabilitate-Finante",
+    "title": "Programe de internship, trainee sau joburi entry-level in Contabilitate-Finante",
+    "company": "JUMP START SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T11:38:25Z",
+    "status": "tested",
     "tags": [
       "Contabilitate financiară",
       "Analiză financiară"
     ],
-    "matchPercentage": 80,
-    "reason": "Rol junior de contabilitate și finanțe cu operațiuni bancare, potrivire directă de domeniu și nivel."
+    "matchPercentage": 85,
+    "reason": "Programe dedicate de internship și entry-level în contabilitate-finanțe, domeniu și nivel aliniate."
   },
   {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/f9tE8zF21L",
-    "title": "Talent Acquisition Specialist - on site",
-    "company": "E-INFRA S.A.",
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/222108/JumpStart---A-GenZ-Career-Hub/Programe-de-internship,-trainee-sau-joburi-entry-level-in-Resurse-Umane",
+    "title": "Programe de internship, trainee sau joburi entry-level in Resurse Umane",
+    "company": "JUMP START SRL",
     "location": [
       "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-15T13:48:47Z",
-    "status": "scraped",
+    "date": "2026-11-17T11:38:25Z",
+    "status": "tested",
     "tags": [
-      "HR",
-      "Recrutare"
+      "Resurse umane",
+      "Psihologia muncii"
     ],
-    "matchPercentage": 78,
-    "reason": "Poziție de recrutare (Talent Acquisition) în domeniul HR, cu sarcini aliniate competențelor și nivel adecvat."
+    "matchPercentage": 85,
+    "reason": "Programe de internship și entry-level în resurse umane, potrivite competențelor de management HR."
   },
   {
-    "url": "https://careers.evolution.com/job/744000154654507/",
-    "title": "Talent Acquisition Specialist",
-    "company": "EVOLUTION PRODUCTS RO S.R.L.",
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/222112/JumpStart---A-GenZ-Career-Hub/Programe-de-internship,-trainee-sau-joburi-entry-level-in-Marketing",
+    "title": "Programe de internship, trainee sau joburi entry-level in Marketing",
+    "company": "JUMP START SRL",
     "location": [
       "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-15T13:47:58Z",
-    "status": "scraped",
-    "tags": [
-      "HR",
-      "Recrutare"
-    ],
-    "matchPercentage": 78,
-    "reason": "Rol de specialist recrutare cu activități de selecție și integrare, relevant pentru resurse umane."
-  },
-  {
-    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Junior-Consultant---Retail---Lifestyle--m-w-d-_JR0742",
-    "title": "Junior Consultant - Retail &amp; Lifestyle (m/w/d)",
-    "company": "YOUGOV CP ROMANIA S.R.L.",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-11-15T13:29:29.547Z",
-    "status": "scraped",
+    "date": "2026-11-17T11:38:25Z",
+    "status": "tested",
     "tags": [
       "Cercetare marketing",
-      "Statistică aplicată"
+      "Marketing digital"
     ],
-    "matchPercentage": 75,
-    "reason": "Analiză de date de panel și consumer insights, folosind cercetare de marketing și statistică."
+    "matchPercentage": 85,
+    "reason": "Programe de internship și entry-level în marketing, domeniu direct relevant și nivel adecvat."
   },
   {
-    "url": "https://jobs.smartrecruiters.com/Accesa/744000156785219",
-    "title": "Talent Acquisition Specialist (External Delivery Partners Team)",
-    "company": "ACCESA IT SYSTEMS SRL",
+    "url": "https://www.undelucram.ro/ro/locuri-de-munca/talent-acquisition-038-retention-specialist/100655",
+    "title": "Talent Acquisition și Retention Specialist",
+    "company": "DR. VIERU MAXIM S.R.L.",
     "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-11-15T13:21:50.105Z",
-    "status": "scraped",
-    "tags": [
-      "HR",
-      "Recrutare"
-    ],
-    "matchPercentage": 75,
-    "reason": "Poziție de Talent Acquisition/IT recruitment în echipă HR, potrivită competențelor de resurse umane."
-  },
-  {
-    "url": "https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Procurement-Officer-with-Italian_R-2026039812",
-    "title": "Procurement Officer with Italian",
-    "company": "MICHELIN ROMANIA S.A.",
-    "location": [
-      "Voluntari",
+      "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-15T13:09:23.572Z",
-    "status": "scraped",
+    "date": "2026-11-17T11:18:37Z",
+    "status": "tested",
     "tags": [
-      "Procurement",
+      "Resurse umane",
+      "Recrutare"
+    ],
+    "matchPercentage": 85,
+    "reason": "Rol HR de recrutare și integrare, la nivel junior cu 1 an experiență, folosește direct competențele de resurse umane."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/junior-hr-admin/99248258",
+    "title": "Junior HR Admin",
+    "company": "SAIPEM ROMANIA S.R.L.",
+    "location": [
+      "Ploiesti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T12:34:29Z",
+    "status": "tested",
+    "tags": [
+      "Resurse umane",
       "Contracte"
     ],
+    "matchPercentage": 82,
+    "reason": "Rol HR admin de nivel junior cu documentare de personal, contracte și date ale angajaților, fără a cere experiență anterioară."
+  },
+  {
+    "url": "https://multijobs.ro/job/analist-credite-limba-germana/1520",
+    "title": "Analist Credite - Limba Germană",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Brașov",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T11:24:44Z",
+    "status": "tested",
+    "tags": [
+      "Analiză financiară",
+      "Germană"
+    ],
+    "matchPercentage": 82,
+    "reason": "Analist credite cu limba germană: analiză financiară a clienților și competență lingvistică, la nivel entry/mid."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/contabil-contabilitate-primara-161",
+    "title": "CONTABIL (Contabilitate primara)",
+    "company": "INTERNATIONAL LAZAR COMPANY SRL",
+    "location": [
+      "117045 Bascov",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T09:22:59Z",
+    "status": "tested",
+    "tags": [
+      "Contabilitate"
+    ],
+    "matchPercentage": 80,
+    "reason": "Post de contabilitate primară, fără cerințe de senioritate, care folosește direct competențele contabile."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161107900",
+    "title": "Working Student in Sales Planning",
+    "company": "DEN BOSCH GROUP SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T12:36:59Z",
+    "status": "tested",
+    "tags": [
+      "Previziuni financiare",
+      "Analiză date"
+    ],
+    "matchPercentage": 78,
+    "reason": "Working student în planificarea vânzărilor: analiză de date, previziuni volume-preț și controlling, nivel entry-level."
+  },
+  {
+    "url": "https://multijobs.ro/job/internship-spain-implementation-consultant/5769",
+    "title": "Internship - Spain Implementation Consultant",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T11:43:56Z",
+    "status": "tested",
+    "tags": [
+      "Sisteme informatice",
+      "Limbi străine"
+    ],
+    "matchPercentage": 75,
+    "reason": "Internship de consultant în implementare, compatibil cu sistemele informatice în afaceri și comunicarea în spaniolă."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270835/ING-Bank-Romania/Conversion-Rate-Optimization-Expert-|-Acquisition-@ING-Bank",
+    "title": "Conversion Rate Optimization Expert | Acquisition @ING Bank",
+    "company": "ING BANK N.V. AMSTERDAM SUCURSALA BUCURESTI",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T11:41:02Z",
+    "status": "tested",
+    "tags": [
+      "Marketing digital",
+      "Analiză date"
+    ],
     "matchPercentage": 72,
-    "reason": "Rol de procurement operațional cu activități de contracte, furnizori și facturare, relevant pentru afaceri și negociere."
+    "reason": "Optimizarea ratei de conversie și achiziția digitală folosesc marketing digital și analiză de date."
   },
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160547899-working-student-digitalization-for-logistics",
-    "title": "Working Student Digitalization for Logistics",
-    "company": "ROBERT BOSCH SRL",
+    "url": "https://ppc.jobful.io/company/ppc-energy/jobs/procurement-governance-specialist",
+    "title": "Procurement Governance Specialist",
+    "company": "PPC ENERGIE S.A.",
     "location": [
-      "România"
+      "Bucuresti",
+      "Romania"
     ],
     "salary": null,
-    "date": "2026-11-15T13:45:27.217Z",
-    "status": "scraped",
+    "date": "2026-11-17T11:20:07Z",
+    "status": "tested",
     "tags": [
-      "Business analytics",
-      "Excel"
+      "Control financiar",
+      "Audit"
     ],
-    "matchPercentage": 68,
-    "reason": "Working student cu raportare, automatizare și dashboarduri Power BI, potrivit pe analiză de date și sisteme informatice."
+    "matchPercentage": 72,
+    "reason": "Guvernanța, conformitatea legală și ciclurile de audit intern corespund competențelor de control și audit, la nivel specialist."
   },
   {
-    "url": "https://careers.metro.digital/job/procurement-consultant-it-procurement-m-f-d-in-schlueterstrasse-5-duesseldorf-jid-34934",
-    "title": "Procurement Consultant – IT Procurement (m/f/d)",
-    "company": "METRO DIGITAL ROMANIA S.R.L.",
+    "url": "https://multijobs.ro/job/specialist-admin-payroll/3863",
+    "title": "Specialist Admin și Payroll",
+    "company": "SFC SOLUTIONS AUTOMOTIVE ROMANIA S.R.L.",
     "location": [
-      "România"
+      "Piscani",
+      "Romania"
     ],
     "salary": null,
-    "date": "2026-11-14T15:01:20.858Z",
-    "status": "scraped",
+    "date": "2026-11-17T12:23:30Z",
+    "status": "tested",
     "tags": [
-      "Procurement",
-      "Negocieri"
+      "resurse umane",
+      "contabilitate"
     ],
-    "matchPercentage": 68,
-    "reason": "Consultant în achiziții IT, relevant pentru competențe de negociere și business, deși poate necesita experiență practică."
+    "matchPercentage": 70,
+    "reason": "Specialist admin și payroll la nivel entry/mid, folosește direct contabilitatea și managementul resurselor umane."
   },
   {
     "url": "https://cariere.auchan.ro/job/manager-departamente-comerciale-stagiar-310920",
@@ -218,102 +295,120 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-15T13:21:43.014Z",
+    "date": "2026-11-16T14:35:25.122Z",
     "status": "scraped",
     "tags": [
       "Management operațional",
-      "Management general"
+      "Leadership"
     ],
-    "matchPercentage": 65,
-    "reason": "Stagiu de management în departamente comerciale retail, cu atribuții de management operațional, potrivit parțial profilului de administrare a afacerilor."
+    "matchPercentage": 68,
+    "reason": "Stagiu de management operațional într-un departament comercial, nivel trainee, relevant pentru managementul general."
   },
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161107900-working-student-in-sales-planning",
-    "title": "Working Student in Sales Planning",
-    "company": "ROBERT BOSCH SRL",
+    "url": "https://jobs.ashbyhq.com/tractable/22b7f0dc-b06a-427b-995b-ea92c14b5bcd",
+    "title": "Supply Chain și Operations Specialist",
+    "company": "TRACTABLE S.R.L.",
     "location": [
-      "Cluj-Napoca",
+      "United States",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-15T13:45:27.217Z",
-    "status": "scraped",
+    "date": "2026-11-17T12:11:18Z",
+    "status": "tested",
     "tags": [
-      "Analiză de date",
-      "Previziuni financiare"
+      "Contabilitate",
+      "Audit"
     ],
-    "matchPercentage": 65,
-    "reason": "Activitatea de planificare și analiză a volumelor, prețurilor și forecastului folosește parțial analiza de date și previziunile financiare."
+    "matchPercentage": 68,
+    "reason": "Sarcinile de contabilitate furnizori, închidere lunară și audit de inventar folosesc parțial competențele financiar-contabile, la nivel specialist."
   },
   {
-    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bucharest-Romania/Junior-Data-Scientist_JR1127",
-    "title": "Junior Data Scientist",
-    "company": "YOUGOV CP ROMANIA S.R.L.",
+    "url": "https://oferimdemunca.ro/job/functionar-economic-delcarant-vamal/",
+    "title": "Functionar Economic/Declarant Vamal",
+    "company": "SMART OUTSOURCING SERVICES S.R.L.",
     "location": [
       "București",
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-11-15T13:29:29.547Z",
-    "status": "scraped",
-    "tags": [
-      "Statistică aplicată",
-      "Business analytics"
-    ],
-    "matchPercentage": 65,
-    "reason": "Rol junior de data science ce valorifică statistică aplicată și analiza datelor, potrivire parțială."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/Accesa/744000160815670",
-    "title": "Junior Product Owner with German – Academy",
-    "company": "ACCESA IT SYSTEMS SRL",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-11-15T13:21:50.105Z",
-    "status": "scraped",
-    "tags": [
-      "Business analytics",
-      "Sisteme informatice"
-    ],
-    "matchPercentage": 65,
-    "reason": "Product owner junior ce leagă cerințele de business de IT, potrivire parțială cu sistemele informatice."
-  },
-  {
-    "url": "https://www.antibiotice.ro/joburi/procurement-specialist/",
-    "title": "Procurement Specialist",
-    "company": "ANTIBIOTICE SA",
-    "location": [
-      "Iași",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-15T13:41:27.362Z",
-    "status": "scraped",
+    "date": "2026-11-17T07:39:11Z",
+    "status": "tested",
     "tags": [
-      "Negocieri",
-      "Contracte"
+      "fiscalitate",
+      "contabilitate"
     ],
     "matchPercentage": 65,
-    "reason": "Rol de achiziții (procurement) cu potențială relevanță pentru negociere și relații comerciale, dar descrierea sarcinilor este incompletă."
+    "reason": "Rol de funcționar economic/declarant vamal la nivel de intrare, cu sarcini ce folosesc fiscalitatea și operațiunile de comerț exterior, domeniu economic potrivit parțial."
   },
   {
-    "url": "https://apply.workable.com/j/53493DD9A2",
-    "title": "Contract Specialist",
-    "company": "NUVEI SERVICES ROMANIA S.R.L.",
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/273662/BAT-Romania-/Supply-Chain-Replenishment-Specialist",
+    "title": "Supply Chain Replenishment Specialist",
+    "company": "BATM ROMANIA S.R.L.",
     "location": [
-      "Iași",
+      "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-15T13:50:21.599Z",
-    "status": "scraped",
+    "date": "2026-11-17T12:34:29Z",
+    "status": "tested",
     "tags": [
-      "dreptul afacerilor",
-      "contracte comerciale"
+      "management operațional",
+      "previziuni"
+    ],
+    "matchPercentage": 65,
+    "reason": "Poziție de specialist în replenishment cu sarcini de planificare operațională și previziuni, nivel acceptabil, domeniu business parțial."
+  },
+  {
+    "url": "https://www.gomag.ro/blog/se-cauta-coleg-colega-copywriter-in-baia-mare/",
+    "title": "Copywriter in Baia Mare – Job Marketing",
+    "company": "GOMAGBIZ SRL",
+    "location": [
+      "Baia Mare",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T12:36:59Z",
+    "status": "tested",
+    "tags": [
+      "Marketing digital",
+      "E-business"
+    ],
+    "matchPercentage": 65,
+    "reason": "Rol de copywriter SEO în marketing digital, domeniu parțial relevant, dar centrat pe scriere și experiență specifică."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/273609/Hipo-Job-Finder/Junior-Process-Improvement-Specialist-(part-time)-F/M---Marquardt",
+    "title": "Junior Process Improvement Specialist (part-time) F/M - Marquardt",
+    "company": "HIPO COMPANY GRUP SRL",
+    "location": [
+      "Sibiu",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T11:40:27Z",
+    "status": "tested",
+    "tags": [
+      "Management operațional"
     ],
     "matchPercentage": 62,
-    "reason": "Pozitie de contract specialist care valorifica partial dreptul afacerilor, contractele comerciale si negocierea, la nivel entry/mid, dar nu este nucleu de business analytics/finante."
+    "reason": "Poziție junior de îmbunătățire a proceselor, relevantă pentru managementul operațional."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3417618",
+    "title": "DECLARANT VAMAL",
+    "company": "COMPANIA NATIONALA POSTA ROMANA S.A BUCUREŞTI - SUCURSALA BUCURESTI",
+    "location": [
+      "BUCURESTI SECTORUL 6",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T13:05:46Z",
+    "status": "verified",
+    "tags": [
+      "fiscalitate",
+      "contabilitate"
+    ],
+    "matchPercentage": 60,
+    "reason": "Declarant vamal fără experiență, sarcini de birou legate de vămi și fiscalitate, potrivire parțială la nivel entry-level."
   }
 ]
