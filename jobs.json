@@ -1,5 +1,22 @@
 [
   {
+    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Paris-France/Stage-de-fin-d-tudes---Charg-e--d-tudes-marketing_JR0775",
+    "title": "Stage de fin d&#039;études – Chargé(e) d’études marketing",
+    "company": "YOUGOV CP ROMANIA S.R.L.",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-27T16:13:31.413Z",
+    "status": "scraped",
+    "tags": [
+      "Cercetare marketing",
+      "Statistică aplicată"
+    ],
+    "matchPercentage": 93,
+    "reason": "Stagiu de cercetare de marketing cu chestionare, analiză de date și insight-uri, potrivit pentru un student în anii mari."
+  },
+  {
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000163653151-junior-managers-program-controlling-area-timisoara",
     "title": "Junior Managers Program | Controlling Area Timisoara",
     "company": "ROBERT BOSCH SRL",
@@ -8,31 +25,121 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-26T16:40:48.551Z",
+    "date": "2026-11-27T16:26:58.831Z",
     "status": "scraped",
     "tags": [
       "Control financiar",
       "Analiză financiară"
     ],
-    "matchPercentage": 95,
-    "reason": "Program junior de controlling în finance, cu KPI, analiză financiară și decizii data-driven, la nivel trainee."
+    "matchPercentage": 90,
+    "reason": "Programul junior de controlling folosește direct competențe de control financiar, contabilitate și analiză financiară, la nivel entry-level."
   },
   {
-    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Paris-France/Stage-de-fin-d-tudes---Charg-e--d-tudes-marketing_JR0775",
-    "title": "Stage de fin d&#039;études – Chargé(e) d’études marketing",
+    "url": "https://www.randstad.ro/locuri-de-munca/junior-contabil-otopeni_otopeni_5530/",
+    "title": "junior contabil - otopeni",
+    "company": "RANDSTAD ROMANIA SRL",
+    "location": [
+      "Otopeni",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-27T16:05:55.148Z",
+    "status": "scraped",
+    "tags": [
+      "Contabilitate",
+      "Finanțe"
+    ],
+    "matchPercentage": 90,
+    "reason": "Poziție de junior contabil/economist la început de carieră, cu aplicare directă a cunoștințelor de contabilitate de bază într-o echipă financiară."
+  },
+  {
+    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangalore/Research-Executive--Client-Service_JR1037",
+    "title": "Research Executive, Client Service",
     "company": "YOUGOV CP ROMANIA S.R.L.",
     "location": [
       "România"
     ],
     "salary": null,
-    "date": "2026-11-26T16:28:19.853Z",
+    "date": "2026-11-27T16:13:31.413Z",
     "status": "scraped",
     "tags": [
       "Cercetare marketing",
-      "Statistică"
+      "Statistică aplicată"
     ],
-    "matchPercentage": 95,
-    "reason": "Stagiu ideal: cercetare de marketing cu chestionare, analiză statistică și raportare de insight-uri."
+    "matchPercentage": 88,
+    "reason": "Rol entry-level de cercetare de marketing cu design de chestionare, analiză și raportare către clienți."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000164009949-working-student-in-sales-planning",
+    "title": "Working Student in Sales Planning",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-27T16:26:58.831Z",
+    "status": "scraped",
+    "tags": [
+      "previziuni financiare",
+      "analiză date"
+    ],
+    "matchPercentage": 85,
+    "reason": "Working student în planificarea vânzărilor, cu analiză de date, forecast și controlling, la nivel pentru studenți."
+  },
+  {
+    "url": "https://www.randstad.ro/locuri-de-munca/digital-marketing-intern_bucuresti_5514/",
+    "title": "digital marketing intern",
+    "company": "RANDSTAD ROMANIA SRL",
+    "location": [
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-27T16:05:55.148Z",
+    "status": "scraped",
+    "tags": [
+      "Marketing digital",
+      "E-business"
+    ],
+    "matchPercentage": 85,
+    "reason": "Internship de marketing digital, domeniu direct relevant și nivel entry-level."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161771380-working-student-s4-master-data-rollouts",
+    "title": "Working Student -  S/4 Master Data Rollouts",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Timișoara",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-27T16:26:58.831Z",
+    "status": "scraped",
+    "tags": [
+      "Sisteme informatice",
+      "Prelucrare date"
+    ],
+    "matchPercentage": 80,
+    "reason": "Datele master de clienți și furnizori din SAP S/4 și proiectele de migrare folosesc direct sistemele informatice în afaceri, la nivel de student."
+  },
+  {
+    "url": "https://www.randstad.ro/locuri-de-munca/hr-recruiter-blue-collar_brasov_4869/",
+    "title": "HR Recruiter - Blue Collar",
+    "company": "RANDSTAD ROMANIA SRL",
+    "location": [
+      "Brașov",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-27T16:05:55.147Z",
+    "status": "tested",
+    "tags": [
+      "Resurse umane",
+      "Psihologia muncii"
+    ],
+    "matchPercentage": 80,
+    "reason": "Rol de recruiter HR la nivel de început, folosește direct competențe de resurse umane și psihologia muncii."
   },
   {
     "url": "https://join.pmicareers.com/gb/en/job/34546/Future-in-Progress-Summer-Internship-2027",
@@ -46,226 +153,11 @@
     "date": "2026-11-17T15:31:04Z",
     "status": "tested",
     "tags": [
-      "cercetare marketing",
-      "management operațional"
+      "comportament consumator",
+      "cercetare marketing"
     ],
-    "matchPercentage": 90,
-    "reason": "Stagiul de vară în FMCG acoperă trenduri de piață, comportamentul consumatorului, operațiuni și strategie, folosind direct cercetarea de marketing și managementul operațional la nivel de student."
-  },
-  {
-    "url": "https://www.randstad.ro/locuri-de-munca/junior-contabil-otopeni_otopeni_5530/",
-    "title": "junior contabil - otopeni",
-    "company": "RANDSTAD ROMANIA SRL",
-    "location": [
-      "Otopeni",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-26T16:21:05.392Z",
-    "status": "scraped",
-    "tags": [
-      "Contabilitate",
-      "Contabilitate financiară"
-    ],
-    "matchPercentage": 90,
-    "reason": "Junior contabil/economist la început de drum, exact în domeniul contabilității și la nivel entry-level."
-  },
-  {
-    "url": "https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-german-bucurestiiasi_bucuresti_5472/",
-    "title": "junior specialist accounting &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; finance with german (bucuresti/iasi)",
-    "company": "RANDSTAD ROMANIA SRL",
-    "location": [
-      "Iași",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-26T16:21:05.391Z",
-    "status": "scraped",
-    "tags": [
-      "Contabilitate financiară",
-      "Analiză financiară"
-    ],
-    "matchPercentage": 90,
-    "reason": "Poziție junior în contabilitate și finanțe cu germană, cu operațiuni bancare și procese financiare, potrivită ca domeniu și nivel."
-  },
-  {
-    "url": "https://gaminvest.ro/ro/cariere/contabil-junior-birou-oradea-2",
-    "title": "Contabil junior — birou Oradea",
-    "company": "GAMINVEST SRL",
-    "location": [
-      "Oradea",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-26T16:14:09.263Z",
-    "status": "scraped",
-    "tags": [
-      "Contabilitate financiară",
-      "Contabilitate de bază"
-    ],
-    "matchPercentage": 90,
-    "reason": "Contabil junior într-o firmă de contabilitate, sarcinile folosesc direct cunoștințele de contabilitate financiară."
-  },
-  {
-    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangalore/Research-Executive--Client-Service_JR1037",
-    "title": "Research Executive, Client Service",
-    "company": "YOUGOV CP ROMANIA S.R.L.",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-11-26T16:28:19.853Z",
-    "status": "scraped",
-    "tags": [
-      "Cercetare marketing",
-      "Analiză date"
-    ],
-    "matchPercentage": 88,
-    "reason": "Poziție entry-level în cercetare de marketing, cu design de chestionare, analiză date și prezentarea rezultatelor."
-  },
-  {
-    "url": "https://cariere.auchan.ro/job/manager-departamente-comerciale-stagiar-310920",
-    "title": "Manager departamente comerciale stagiar",
-    "company": "AUCHAN ROMÂNIA SA",
-    "location": [
-      "București",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-26T16:16:36.298Z",
-    "status": "scraped",
-    "tags": [
-      "management operațional",
-      "leadership"
-    ],
-    "matchPercentage": 85,
-    "reason": "Poziția de stagiar în managementul departamentelor comerciale din retail folosește direct managementul operațional și leadershipul la nivel entry-level."
-  },
-  {
-    "url": "https://cariere.auchan.ro/job/manager-departamente-comerciale-stagiar-582316",
-    "title": "Manager Departamente Comerciale Stagiar",
-    "company": "AUCHAN ROMÂNIA SA",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-26T16:16:36.298Z",
-    "status": "scraped",
-    "tags": [
-      "management operațional",
-      "leadership"
-    ],
-    "matchPercentage": 85,
-    "reason": "Poziția de stagiar în managementul departamentelor comerciale din retail folosește direct managementul operațional și leadershipul la nivel entry-level."
-  },
-  {
-    "url": "https://yardiromania.breezy.hr/p/0d4e5819ce9a01-marketing-analyst-ii-digital-performance-analytics",
-    "title": "Marketing Analyst II – Digital &amp; Performance Analytics",
-    "company": "YARDI CALL CENTER SRL",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-26T16:11:21.599Z",
-    "status": "scraped",
-    "tags": [
-      "Analiză date",
-      "Marketing digital"
-    ],
-    "matchPercentage": 85,
-    "reason": "Rol mid de analist în marketing digital și performance analytics, cu aplicare directă a analizei datelor."
-  },
-  {
-    "url": "https://multijobs.ro/job/asistent-financiar/4861",
-    "title": "Asistent financiar",
-    "company": "TOYO MOTOR CENTER SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T13:49:37Z",
-    "status": "tested",
-    "tags": [
-      "Contabilitate financiară",
-      "Analiză financiară"
-    ],
-    "matchPercentage": 80,
-    "reason": "Asistent financiar, poziție entry-level în domeniul financiar-contabil."
-  },
-  {
-    "url": "https://apply.workable.com/j/53493DD9A2",
-    "title": "Contract Specialist",
-    "company": "NUVEI SERVICES ROMANIA S.R.L.",
-    "location": [
-      "Iași",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-26T16:44:53.935Z",
-    "status": "scraped",
-    "tags": [
-      "Contracte comerciale",
-      "Dreptul afacerilor"
-    ],
-    "matchPercentage": 80,
-    "reason": "Specialist contracte în fintech, folosește direct contractele comerciale și dreptul afacerilor, la nivel specialist/mid."
-  },
-  {
-    "url": "https://www.randstad.ro/locuri-de-munca/digital-marketing-intern_bucuresti_5514/",
-    "title": "digital marketing intern",
-    "company": "RANDSTAD ROMANIA SRL",
-    "location": [
-      "București",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-26T16:21:05.392Z",
-    "status": "scraped",
-    "tags": [
-      "Marketing digital",
-      "E-business"
-    ],
-    "matchPercentage": 80,
-    "reason": "Internship în marketing digital, domeniu direct acoperit de competențele de e-business și promovare online."
-  },
-  {
-    "url": "https://www.randstad.ro/locuri-de-munca/hr-recruiter-blue-collar_brasov_4869/",
-    "title": "HR Recruiter - Blue Collar",
-    "company": "RANDSTAD ROMANIA SRL",
-    "location": [
-      "Brașov",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-26T16:21:05.391Z",
-    "status": "tested",
-    "tags": [
-      "Resurse umane",
-      "Psihologia muncii"
-    ],
-    "matchPercentage": 78,
-    "reason": "Rol de recrutor în departamentul HR, fără cerințe senior, folosește competențe de resurse umane."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161771380-working-student-s4-master-data-rollouts",
-    "title": "Working Student -  S/4 Master Data Rollouts",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "Timișoara",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-26T16:40:48.551Z",
-    "status": "scraped",
-    "tags": [
-      "Sisteme informatice",
-      "CRM"
-    ],
-    "matchPercentage": 74,
-    "reason": "Menținerea datelor master de clienți și furnizori în SAP S/4 și consultanța de nivel 1 folosesc direct sistemele informatice în afaceri."
+    "matchPercentage": 65,
+    "reason": "Stagiu de vară pentru studenți la business/marketing, cu proiecte pe trenduri de piață și comportamentul consumatorului, la nivel entry-level."
   },
   {
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162666109-working-student-technical-project-administration",
@@ -276,67 +168,13 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-26T16:40:48.551Z",
+    "date": "2026-11-27T16:26:58.831Z",
     "status": "scraped",
     "tags": [
       "Management operațional",
       "Management general"
     ],
-    "matchPercentage": 68,
-    "reason": "Administrarea proiectelor cu urmărirea bugetului, calității și livrabilelor aplică parțial managementul operațional, la nivel de student."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152910009-intermediate-data-scientist-for-e-mobility-cloud-solutions",
-    "title": "Intermediate Data Scientist for (e-)Mobility Cloud Solutions",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-26T16:40:48.551Z",
-    "status": "scraped",
-    "tags": [
-      "Statistică aplicată",
-      "Analiză date"
-    ],
-    "matchPercentage": 68,
-    "reason": "Rol de Data Scientist intermediate, nivel mid acceptat, cu aplicare directă a statisticii și analizei datelor în business."
-  },
-  {
-    "url": "https://multijobs.ro/job/analist-gestiune-operationala-lucrari-junior-galati/5213",
-    "title": "Analist gestiune operațională lucrări junior – Galați",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Galati",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T14:26:54Z",
-    "status": "tested",
-    "tags": [
-      "Management operațional",
-      "Analiză"
-    ],
-    "matchPercentage": 65,
-    "reason": "Rol junior de analist în gestiune operațională, care folosește direct competența de management operațional."
-  },
-  {
-    "url": "https://goodyear.wd1.myworkdayjobs.com/en-US/GoodyearCareers/job/Romania--Bucharest/Control-Tower-Analyst_JR-40113828",
-    "title": "Control Tower Analyst",
-    "company": "GOODYEAR ROMANIA S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T14:19:00Z",
-    "status": "tested",
-    "tags": [
-      "Analiză date",
-      "Management operațional"
-    ],
-    "matchPercentage": 65,
-    "reason": "Rol de analist cu interpretare de date în timp real și decizii operaționale, domeniu doar parțial relevant (servicii anvelope)."
+    "matchPercentage": 62,
+    "reason": "Administrarea proiectelor implică planificare, buget și management operațional, la nivel de working student."
   }
 ]
